@@ -138,12 +138,12 @@ You can use your own email (or your @djangogirls.org email) to reply and write a
 
 ## Essential reading
 
-[Who we are]()
-[Communication guidelines]()
-[Mailing lists](mailing-lists.md)
-[Tools](tools.md)
-[How we handle emails]()
-[Deploy new city?]()
+[Who we are]()  
+[Communication guidelines]()  
+[Mailing lists](mailing-lists.md)  
+[Tools](tools.md)  
+[How we handle emails]()  
+[Deploy new city?]()  
 
 ## Fun reading
 
