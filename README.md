@@ -25,13 +25,13 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 
 #### How to...
 
-- [Deploy new city?]()
-- [Add a second/third/nth event for existing city?]()
-- [Onboard a new team member?]()
-- [Create a new tutorial release?]()
-- [Publish new tutorial translation?]()
-- [Update tutorial source text in Crowdin?]()
-- [Send Patreon rewards?]()
+- [Deploy new city?](howto/deploy-city.md)
+- [Add a second/third/nth event for existing city?](howto/copy-event.md)
+- [Onboard a new team member?](howto/new-support-member.md)
+- [Create a new tutorial release?](howto/tutorial-release.md)
+- [Publish new tutorial translation?](http://translate.djangogirls.org/when_its_ready.html)
+- [Update tutorial source text in Crowdin?](howto/update-source-crowdin.md)
+- [Send Patreon rewards?](howto/patreon-rewards.md)
 
 #### Email templates
 
