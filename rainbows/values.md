@@ -10,7 +10,7 @@ This is by far the most important part. We try to do more than what's expected o
 
 ## Care about the details
 
-We believe that the tiny little details of everything make a real difference. An emoji here an there, the flowers, the rainbows and the unicorns. Paying attention to details, to the subject of the email and the way we respond to things matters for us. 
+We believe that the tiny little details of everything make a real difference. An emoji here and there, the flowers, the rainbows and the unicorns. Paying attention to details, to the subject of the email and the way we respond to things matters for us. 
 
 ## Quality is important
 
@@ -18,10 +18,14 @@ We don't produce bad products. We don't compromise on the quality of the t-shirt
 
 ## Give it your 100% 
 
-It means no half-assing. Do it right, or not at all. If you don't know how to do it right, ask for help :)
+It means no half-assing. Do it right, or not at all. If you don't know how to do it right, ask for help :) But every little contribution matter.
 
 ## Design matters
 
 Design influence the way people react to us and the things we do. So always make it pretty, easy to use and clean. If you are not sure that you can, ask for help :) 
+
+## We do the right thing
+
+When facing a decision on any matter, we always try to do the right thing. 
 
 

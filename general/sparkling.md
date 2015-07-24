@@ -138,11 +138,11 @@ You can use your own email (or your @djangogirls.org email) to reply and write a
 
 ## Essential reading
 
-[Who we are]()  
+[Who we are](../rainbows/values.md)  
 [Communication guidelines]()  
 [Mailing lists](mailing-lists.md)  
 [Tools](tools.md)  
-[How we handle emails]()  
+[How we handle emails](../rainbows/emails.md)  
 [Deploy new city?]()  
 
 ## Fun reading

@@ -12,6 +12,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Mailing lists](general/mailing-lists.md)
 - [Tools](general/tools.md)
 - [Glossary](general/glossary.md)
+- [Who is who](general/people.md)
 
 ### The Django Girls way
 
