@@ -35,14 +35,13 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 
 #### Email templates
 
-- [First reply for new organizer request]()
-- [Ping for organizers that are late]()
-- [Cloning / forking Django Girls website]()
+- [First reply for new organizer request](howto/emails/organize-request-reply.md)
+- [Ping for organizers that are late](howto/late-ping.md)
 
 #### Process
 
 - [When event is over?]()
-- [When new organizer apply to organize Django Girls event?](process/new-event.md)
+- [When new organizer apply to organize Django Girls event?](howto/new-event.md)
 
 ### Fun
 
