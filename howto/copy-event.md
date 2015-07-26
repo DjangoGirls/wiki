@@ -6,9 +6,11 @@ These are instructions on what to do when organizers from some city want to orga
 
 1. Go to http://djangogirls.org/admin/core/event/
 2. Find the last event in this city. It's important that this is the last (most recent) event in the city, not any other. Note the ID of the event (you can see it in URL of the event).
-3. Go to your terminal and run this command:
+3. Go to PythonAnywhere, login, and open bash. Then type following commands:
 ```
-heroku run python manage.py copy_event --app djangogirls
+$ workon djangogirls.com
+$ cd djangogirls.com
+$ python manage.py copy_event
 ```
 4. Answer questions:
 

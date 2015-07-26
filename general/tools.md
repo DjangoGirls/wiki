@@ -62,9 +62,9 @@ It's also handy to install Gitbook locally if you want to test some bigger PR to
 
 [Tumblr](http://tumblr.com/) is what we use as our blogging platform. 
 
-## Heroku
+## PythonAnywhere
 
-[Heroku](http://heroku.com/) hosts our djangogirls.org website.
+[PythonAnywhere](http://pythonanywhere.com/) hosts our djangogirls.org website.
 
 ## Campaign Monitor
 

@@ -4,28 +4,15 @@
 
 **1) Create a website**
 
+Login to PythonAnywhere and go into bash. Type following commands:
+
 ```
-$ heroku run python manage.py new_event --app djangogirls
+$ workon djangogirls.com
+$ cd djangogirls.com
+$ python manage.py new_event
 ```
 
-*Running `python manage.py new_event` attached to terminal... up, run.9309*  
-Hello there! Let's create new Django Girls event! So exciting!  
-Let's start with some basics.  
-What is the name of the city?: __Budapest__  
-What is the name of the country?: __Hungary__  
-What is the date of the event? (Format: DD/MM/YYYY or MM/YYYY): __06/12/2014__  
-What should be the URL of website? djangogirls.org/xxxx: __budapest__  
-Ok, got that! Your new event will happen in Budapest, Hungary on 6th December 2014  
-Now let's talk about the team. First the main organizer:  
-First and last name: __Dorottya Czapári__  
-E-mail address: __redacted__  
-All right, the main organizer is Dorottya Czapári (dori.czapari@gmail.com)  
-Do you want to add additional team members? y/n: __n__  
-OK! That's it. Now I'll create your event.  
-Here is an access info for team members:  
-Dorottya - email: redacted password: redacted  
-Website is ready here: http://djangogirls.org/budapest  
-Congrats on yet another event!
+And then follow the instructions and questions there.
 
 **2) Add to django-girls-organizers mailing list:**
 
