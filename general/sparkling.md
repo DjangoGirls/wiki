@@ -24,6 +24,10 @@ There is no structure in our team or the way we work. So far it works for us, bu
 
 There is no a category of tasks that are assigned specificially to one person, unless the person commit themselves to take care of it. It means that you can do everything or nothing, and that's okay. 
 
+It's better to ask for forgiveness, than permission. If you're in the team, it means we trust you in making your own decisions and acting before asking. 
+
+Do you remember when on planes they say that you should first put your oxygen mask, and then help others? We believe in the same rule. Burnout is real, and self care is more important than anything else. We're all in this for the long run, so make sure to prioritize your free time, relax and hobbies. Don't feel bad when you're sipping a drink when everyone else is working -- just enjoy it. That's why there is so many of us in the team, so that someone can enjoy the sun and the show is still running. 
+
 ### What do we do
 
 There is a serval recurring tasks we take care of: 
