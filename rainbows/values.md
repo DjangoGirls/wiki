@@ -1,6 +1,6 @@
 [<- back to index](../README.md)
 
-# Who we are
+# About us
 
 There are things we believe in that dictate how we do things. 
 
