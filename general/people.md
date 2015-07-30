@@ -20,6 +20,7 @@ Team members:
 - Ania Warzecha (joined January 2015)
 - Kasia Kamińska (joined June 2015)
 - Geoff Sechter (joined June 2015)
+- Lacey Williams Henschel (joined July 2015) 
 
 You can reach them by writing to hello@djangogirls.org.
 
