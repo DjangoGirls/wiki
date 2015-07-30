@@ -16,7 +16,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 
 ### The Django Girls way
 
-- [Who we are](rainbows/values.md)
+- [About us](rainbows/values.md)
 - [How we handle emails](rainbows/emails.md)
 - [Twitter best practices](rainbows/twitter.md)
 - [Communication guidelines](rainbows/communication.md)
