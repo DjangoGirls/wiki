@@ -48,6 +48,7 @@ Team members:
 - Helen Sherwood-Taylor
 - Harry Percival
 - Honza Král
+- Paul Hallett
 
 ## Social media team
 
