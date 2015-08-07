@@ -12,7 +12,7 @@ Our definition goes like this: we believe that people in this team are the ones 
 
 People we trust enough to let them speak in our name, and we don't have to worry they're gonna say things we don't agree with. 
 
-People who offer new perspectives, will help us grow and are fun to be around. 
+People who share our values, offer new perspectives, will help us grow, and are fun to be around! 
 
 When choosing a new member we care more if we trust a person and we can rely on their judgement, than their skills or how much their contribute. Character fit is important for us. If we invite you to join us, it means that you have 100% of our trust, and not even a shadow of doubt from anyone on the team. Thanks to that, even if you make a mistake, we've got your back. 
 
