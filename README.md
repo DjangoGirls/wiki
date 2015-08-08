@@ -34,6 +34,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Update tutorial source text in Crowdin?](howto/update-source-crowdin.md)
 - [Send Patreon rewards?](howto/patreon-rewards.md)
 - [Add subdomain redirect?](howto/new-subdomain-redirect.md)
+- [Write Django Girls Dispatch (newsletter)](howto/write-a-newsletter.md)
 
 #### Email templates
 
