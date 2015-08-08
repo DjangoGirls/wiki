@@ -24,9 +24,13 @@ Team members:
 
 You can reach them by writing to hello@djangogirls.org.
 
-## Anna Ossowski
+## Django Story
 
-Anna is running the Django Story on our blog.
+The Django Story series on our [blog](blog.djangogirls.org) profiles one woman Django programmer each week.
+
+Team members: 
+
+- Anna Ossowski 
 
 ## Translation Managers
 
@@ -52,7 +56,7 @@ Team members:
 
 ## Social media team
 
-People with access to twitter and facebook profile.
+The social media team posts to our [Twitter](https://twitter.com/djangogirls) and [Facebook](https://www.facebook.com/djangogirls) profiles.
 
 Team members:
 
