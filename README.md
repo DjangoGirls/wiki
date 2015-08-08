@@ -43,7 +43,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 
 #### Process
 
-- [When event is over?]()
+- When event is over? (forthcoming) 
 - [When new organizer apply to organize Django Girls event?](howto/new-event.md)
 
 ### Fun
