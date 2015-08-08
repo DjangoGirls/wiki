@@ -1,6 +1,6 @@
 # Tutorial releases
 
-> Tutorial has to be versioned because we should be able to give translators an information that the tutorial has significant changes touching all the languages and that they need to make additional translation changes probably or at least check if everything is fine.
+> Tutorial has to be versioned because we should be able to give translators information that the tutorial has significant changes that affect all the languages and that they need to make additional translation changes (or at least check if the tutorial requires changes).
 
 ## Naming convention
 The releases should be named in a sepcific pattern:
@@ -12,11 +12,11 @@ Z - small changes, typos, we shouldn't really change it, in our case it should b
 
 Y - changes that make a bigger difference but don't change the whole project structure
 
-X - changes that are or may be backwads incompatible, like introducing gitbook 2.0.0 or changing the whole approach of the tutorial
+X - changes that are or may be backwards incompatible, like introducing gitbook 2.0.0 or changing the whole approach of the tutorial
 
 ## Creating releases 
-A great reference about creating releases can be found at github and we should use it:
+A great reference about creating releases can be found on GitHub, and we should use it:
 https://help.github.com/articles/creating-releases/
 
 ## Changelog.md
-I am generating Changelog.md automatically with [Github Changelog Generator](https://github.com/skywinder/github-changelog-generator) but we might as well decide we are only writing down the most important changes in the release notes - we should discuss it probably.
+I am generating Changelog.md automatically with [GitHub Changelog Generator](https://github.com/skywinder/github-changelog-generator) but we should decide whether we are only writing down the most important changes in the release notes.
