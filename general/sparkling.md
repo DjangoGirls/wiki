@@ -38,13 +38,13 @@ This is our main recurring task. Our goal is to reply to every email that comes 
 
 Of course, we don't reply to spam and random unrelated emails. 
 
-[Read more on how we handle emails](rainbows/emails.md).
+[Read more on how we handle emails](../rainbows/emails.md).
 
 **2. Setting up new events**
 
 There is an established proccess of creating new Django Girls workshops. 
 
-[Read more about the detailed proccess setting up a new event here](process/new-event.md).
+[Read more about the detailed proccess setting up a new event here](../howto/new-event.md).
 
 **3. Making sure that planned events are happening :)**
 
@@ -142,13 +142,13 @@ You can use your own email (or your @djangogirls.org email) to reply and write a
 
 ## Essential reading
 
-[Who we are](../rainbows/values.md)  
-[Communication guidelines]()  
-[Mailing lists](mailing-lists.md)  
+[About Us](../rainbows/values.md)  
+[Communication guidelines](../rainbows/communication.md)  
+[Mailing lists](../general/mailing-lists.md)  
 [Tools](tools.md)  
 [How we handle emails](../rainbows/emails.md)  
-[Deploy new city?]()  
+[Deploy new city?](../howto/deploy-city.md)  
 
 ## Fun reading
 
-[Quotes]()
+[Quotes](http://love.djangogirls.org)
