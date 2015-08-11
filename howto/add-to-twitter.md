@@ -17,6 +17,8 @@ That's it!
 
 ## Send them e-mail about Twitter account
 
+TOPIC: Django Girls Twitter account access
+
 Hi there,
 
 we just added you as a Contributor to our @djangogirls account! Yay! From now on you will be able to write 
