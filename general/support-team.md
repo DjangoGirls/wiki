@@ -22,11 +22,11 @@ Many of the questions you have, with the exception of the above process, can pro
 
 ### Who else volunteers with Django Girls, other than organizers? 
 
-You can find that out on the [Who is who](general/people.md) page
+You can find that out on the [Who is who](people.md) page
 
 ### What does the support team do? 
 
-Read the [Start Sparkling Guide](general/sparkling.md) for an overview, but some tasks we take on include: 
+Read the [Start Sparkling Guide](sparkling.md) for an overview, but some tasks we take on include: 
 
 - Respond to hello@djangogirls.org emails 
 - Set up new events
