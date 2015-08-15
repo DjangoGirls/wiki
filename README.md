@@ -9,6 +9,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 ### General
 
 - New to the team? Read [Start Sparkling Guide](general/sparkling.md).
+- [About the Support Team](general/support-team.md)
 - [Mailing lists](general/mailing-lists.md)
 - [Tools](general/tools.md)
 - [Glossary](general/glossary.md)
