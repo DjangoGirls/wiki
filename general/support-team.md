@@ -1,3 +1,5 @@
+[<- back to index](../README.md)
+
 # About the Support Team 
 
 ## Getting Added to the Support Team 
@@ -16,22 +18,20 @@
 3. The other members of the support team unanimously agree to add that member. 
 4. The new potential member receives an email, offering them a spot on the support team, which they are free to accept or reject. 
 
-## FAQ 
+## Frequently Asked Questions 
 
 Many of the questions you have, with the exception of the above process, can probably be answered in the Wiki! So feel free to have a look around the wiki and email us if you have any other questions. We’ve listed possible questions we think you might have below. 
 
 ### Who else volunteers with Django Girls, other than organizers? 
 
-You can find that out on the [Who is who](people.md) page
+You can find that out on the [Who is who](people.md) page! This page includes all current Support Team members, as well as volunteers who run the Django Story blog series, handle social media accounts, and manage translations. 
 
 ### What does the support team do? 
 
 Read the [Start Sparkling Guide](sparkling.md) for an overview, but some tasks we take on include: 
 
 - Respond to hello@djangogirls.org emails 
-- Set up new events
-- Support those events -- check in when needed, answer questions, help in whatever way we can 
-- Respond to questions from organizers
+- Set up new events and support those events -- check in when needed, answer questions, help in whatever way we can 
 - Work on resources (the website, tutorial, coaches’ manual, organizer’s manual, and tutorial extensions)
   - Review pull requests
   - Recruit more volunteers to help with these things
@@ -50,11 +50,11 @@ Read the [Start Sparkling Guide](sparkling.md) for an overview, but some tasks w
 
 That’s a tough question. Django Girls is only a year old, and it’s growing really fast. Once the Awesomeness Ambassador is hired, some of the above work will be taken over by that person (email, setting up new events, etc.), so hopefully the Support Team can focus on improving the website and resources, and planning for the future. 
 
-Since Django Girls is so young, and is growing so rapidly, it’s hard to know. As Django Girls grows, and the role of the Support Team changes, we will continue to think about how to define the role of the Support Team more clearly. 
+Since Django Girls is so young and is growing so rapidly, it’s hard to know. As Django Girls grows and the role of the Support Team changes, we will continue to think about how to define the role of the Support Team more clearly. 
 
 ### How long is a Support Team appointment? 
 
-That’s another great question. At the moment, no length of time. Django Girls is, again, only a year old. Ania and Baptiste joined in January 2015; Geoff and Kasia joined in June 2015; and Lacey joined in July 2015. No one on the Support Team has served a full year yet, other than Ola and Ola (who are founders, and so were the Support Team before there even was a Support Team!). 
+That’s another great question. At the moment, no set length of time. Django Girls is, again, only a year old. Ania and Baptiste joined in January 2015; Geoff and Kasia joined in June 2015; and Lacey joined in July 2015. No one on the Support Team has served a full year yet, other than Ola and Ola (who are founders, and so were the Support Team before there even was a Support Team!). 
 
 Work-life balance is important to us, so if someone wanted to leave the Support Team, we would support that, and evaluate whether there is enough workload to justify replacing that person (if we haven’t yet decided on the number of people the Support Team should have). But at this time, there aren’t plans to limit the amount of time someone can serve on the Support Team. 
 
@@ -70,8 +70,6 @@ Like we said, we’re adding members as we feel we need to, based on workload, s
 
 The DSF and PSF are very large organizations that serve a lot of people. They also have the benefit of having been around a long time. We feel that adopting a governance structure similar to theirs is premature, but that doesn’t mean that won’t change. 
 
-We also feel that the nomination process for the PSF and DSF has resulted in some unfortunate infighting on those mailing lists; we want to protect our members from that. But that’s no excuse for not being transparent. 
-
 At this point, we are trying to balance being transparent with making sure Django Girls is a supportive, sustainable organization. Our main mission is to help people put on free programming workshops for women. We’re still growing and figuring out the best way to do that. 
 
 ### Why do you need a Support Team at all? 
@@ -80,7 +78,7 @@ At this point, we are trying to balance being transparent with making sure Djang
 
 What this means is that our Support Team spends a lot of hours during the week answering email, checking on events, making sure applications are working, and just helping keep the lights on. That’s a big job, and it takes several people across multiple time zones to make sure it gets done. The Support Team exists to support the organizers in putting their workshops together, and to support Django Girls in general in putting on even better workshops. 
 
-It takes a lot of person hours to make sure Django Girls workshops happen, and the Support Team exists for just that: to help that. Django Girls is still a baby in some respects, and it’s helpful to have a small group of people to bounce ideas off of, even if it’s just making sure an email is phrased right.
+It takes a lot of person hours to make sure Django Girls workshops happen, and the Support Team exists for just that: to help. Django Girls is still a baby in some respects, and it’s helpful to have a small group of people to bounce ideas off of, even if it’s just making sure an email is phrased right.
 
 ### But why can’t you do all that with the whole group? You can bounce ideas off of us! 
  
