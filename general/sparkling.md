@@ -18,6 +18,8 @@ When choosing a new member we care more if we trust a person and we can rely on 
 
 Being in this team doesn't necessarily mean many more responsibilities, although you may receive much (much) more emails than you receive now. The amount of work you would like to put into that depends on you. 
 
+You can read more about how the Support Team works, what we do, and how we add people in the [About the Support Team](support-team.md) section. 
+
 ## How we work
 
 There is no structure in our team or the way we work. So far it works for us, but it doesn't mean it's gonna continue working this way forever.
