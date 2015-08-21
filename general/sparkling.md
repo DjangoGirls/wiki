@@ -34,19 +34,19 @@ Do you remember when on planes they say that you should first put your oxygen ma
 
 There is a serval recurring tasks we take care of: 
 
-**1. Staying on top of hello@djangogirls.org.**
+**1. Staying on top of hello@djangogirls.org**
 
 This is our main recurring task. Our goal is to reply to every email that comes to this address in a couple of days maximum. 
 
 Of course, we don't reply to spam and random unrelated emails. 
 
-[Read more on how we handle emails](../rainbows/emails.md).
+[Read more on how we handle emails.](../rainbows/emails.md)
 
 **2. Setting up new events**
 
 There is an established proccess of creating new Django Girls workshops. 
 
-[Read more about the detailed proccess setting up a new event here](../howto/new-event.md).
+[Read more about the detailed proccess setting up a new event here.](../howto/new-event.md)
 
 **3. Making sure that planned events are happening :)**
 
@@ -87,6 +87,7 @@ This includes:
 - if something doesn't work, it's also our job to kill an idea.
 
 **8. Meeting every month on Hangouts**
+
 Every month we have a private Hangout where we discuss current tasks, issues and problems. We try to make decision about difficult problems that arised during the last month, and see how we can resolve them. We also plan what steps needs to be taken to solve it and who is a person responsible for it.
 
 Preferably, everyone in the team attend the meeting. It's not always possible, and in this case we try to record the meeting.
@@ -118,7 +119,7 @@ Another policy: if you commit to something, but for any (any!) reason you feel l
 
 We keep track of who does what on Trello. 
 
-[Read more about tools](tools.md)
+[Read more about tools.](tools.md)
 
 ### Communication
 
@@ -149,7 +150,7 @@ You can use your own email (or your @djangogirls.org email) to reply and write a
 [Mailing lists](../general/mailing-lists.md)  
 [Tools](tools.md)  
 [How we handle emails](../rainbows/emails.md)  
-[Deploy new city?](../howto/deploy-city.md)  
+[Deploy new city](../howto/deploy-city.md)  
 
 ## Fun reading
 
