@@ -20,3 +20,10 @@ We love pierogi.
 
 Ania loves moustaches.
 
+### ❄️🍆 (snowflake eggplant)
+
+The emoji translation of "cool beans" (it was decided that the eggplant is the closest emoji we have to a bean).
+
+### ⚡⚡⚡ (zapzapzap)
+
+When someone is doing a lot of work at once (like answering a dozen pending email within a couple of minutes).
