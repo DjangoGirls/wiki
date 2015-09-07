@@ -5,11 +5,8 @@
 1. Trello organization
 2. Create e-mail address on Megiteam
 3. Setup forwarding from hello@djangogirls.org to individual email address
-4. PythonAnywhere
 5. Tumblr
-6. Github
- - organization
- - this wiki
+6. Github organization
 7. Drive
  - share Django Girls folder
 8. Mailing Lists
