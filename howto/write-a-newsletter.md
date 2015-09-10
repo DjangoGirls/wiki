@@ -21,3 +21,4 @@ We use [Createsend](https://djangogirls.createsend.com/) to create our newslette
 * has anyone mentioned Django Girls in any article? Maybe we can add that to the newsletter, too!
 * if we are planning or in the process of some important things (like hiring, working on some bigger project, starting some campaign) - make sure to mention it. 
 * check [GitHub](https://github.com/DjangoGirls/tutorial) - any big changes in last fortnight? Any new translations finished?
+* add upcoming events.
