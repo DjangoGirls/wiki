@@ -28,6 +28,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 #### How to...
 
 - [Deploy new city?](howto/deploy-city.md)
+- [Deploy DjangoGirls.org website](howto/deploy-website.md)
 - [Add a second/third/nth event for existing city?](howto/copy-event.md)
 - [Add additional organizer to an existing event?](howto/add-organizer.md)
 - [Onboard new support team member?](howto/new-support-member.md)
