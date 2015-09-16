@@ -11,6 +11,8 @@ In order to update DjangoGirls.org website, you need to have access to our Pytho
 ```
 cd /home/djangogirls/djangogirls.com
 git pull origin master
+workon djangogirls.com
+python manage.py collectstatic
 ```
 
 4. Go to [web tab in PythonAnywhere](https://www.pythonanywhere.com/user/djangogirls2/webapps/)
