@@ -15,6 +15,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Glossary](general/glossary.md)
 - [Who is who](general/people.md)
 - [Past Support Team meeting agendas](https://drive.google.com/folderview?id=0B_sMcBckSgWqfjVQVmMtU09FSXdpampWY2hwc1B4RFRub2phRXpLNEw2YXFaMTF3UDdWVDQ&usp=sharing)
+- [Awesomness Ambassador](general/ambassador.md)
 
 ### The Django Girls way
 
