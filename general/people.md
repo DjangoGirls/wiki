@@ -24,6 +24,12 @@ Team members:
 
 You can reach them by writing to hello@djangogirls.org.
 
+## Django Girls Awesomeness Ambassador
+
+- Lucie Daeye
+
+You can reach her at lucie@djangogirls.org or hello@djangogirls.org.
+
 ## Django Story
 
 The Django Story series on our [blog](blog.djangogirls.org) profiles one woman Django programmer each week.
