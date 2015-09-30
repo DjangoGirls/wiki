@@ -45,10 +45,11 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 
 - [First reply for new organizer request](howto/emails/organize-request-reply.md)
 - [Ping for organizers that are late](howto/emails/late-ping.md)
+- [Thank you email for organizer](howto/emails/thank_you.md)
 
 #### Process
 
-- When event is over? (forthcoming) 
+- [When event is over?](howto/after_event.md)
 - [When new organizer apply to organize Django Girls event?](howto/new-event.md)
 
 ### Fun

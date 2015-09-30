@@ -22,3 +22,11 @@ We use [Createsend](https://djangogirls.createsend.com/) to create our newslette
 * if we are planning or in the process of some important things (like hiring, working on some bigger project, starting some campaign) - make sure to mention it. 
 * check [GitHub](https://github.com/DjangoGirls/tutorial) - any big changes in last fortnight? Any new translations finished?
 * add upcoming events.
+
+## How to send a test email?
+
+1. Click on the campaign you want to test.
+2. Click on "Define recipients" button.
+3. Choose "Django Girls Newsletter" and click on "next".
+4. "Send a test" button is now available! Click on it!
+5. Choose or enter a new email address and click on "send the test email".
