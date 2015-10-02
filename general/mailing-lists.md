@@ -8,6 +8,10 @@ We've got a couple of mailing lists at Google Groups.
 
 This is the main public mailing list, available for everyone who wants to be a part of it. We post announcements here. Everyone can discuss whatever they want to discuss.
 
+## django-girls-spanish
+
+This group is public. It has the same objectives as the django-girls mailing list but in Spanish.
+
 ## django-girls-organizers
 
 This is a private mailing lists for organizers only. We use this to announce things that concerns organizers only, look for volunteers, discuss things with them. 
