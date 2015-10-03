@@ -1,4 +1,4 @@
-# Add person to Tweeterdeck
+# Add person to Tweetdeck
 
 Many people are helping us with our Twitter account. Recently we decided to finaly move to using 
 [Tweetdeck](tweetdeck.twitter.com) for this purpose. It allows us to allow people to Tweet without sharing 
