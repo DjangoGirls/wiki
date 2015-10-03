@@ -4,10 +4,11 @@ First of all, thanks for helping out with Django Story, our blog series that fea
 We hope these instructions will help you run the Django Story. 
 ## Logistics 
 - You will send emails from story@djangogirls.org, and the Support Team will give you access to that email account. 
-- You'll also have access to our Twitter and Facebook accounts, so that you can schedule some social media posts to promote this week's story. 
+- You'll also have access to our [Twitter](https://twitter.com/djangogirls) and [Facebook](https://www.facebook.com/djangogirls) accounts, so that you can schedule some social media posts to promote this week's story. 
 - You'll have access to the Django Girls Tumblr account, so you can post the blog posts each week. 
 - The Django Story should be posted each week on Monday. It's okay to miss a week here and there, but in general, we aim to post a story each week.
 - You'll be given access to a spreadsheet with the contact information of women you could interview. 
+- Here's a [link to some sample HTML](story_sample_html.md) for publishing the blog post. 
 
 ## Finding women to interview 
 This is the fun part! There are several ways to find women to interview for the Django Girls blog. 
@@ -76,6 +77,8 @@ You will also add the introduction (“This is a post in our Your Django Story i
 
 You'll also add a footer that contains your own name, photo, and link to your Twitter handle so we know who to thank for conducting this interview! 
 
+[Link to sample HTML](story_sample_html.md) for formatting the into, questions, and footer. 
+
 ### Scheduling posts 
 A new Django Story should go live each Monday. 
 Tumblr requires that you be an "owner" of the blog in order to schedule posts correctly. At this time, the Django Story volunteer won't be made an owner of the blog, so when you have a post to schedule, please email the Support Team with the name of the interviewee and the date you'd like the post to go up, and they will schedule it for you. Please give them a couple days of lead time for this! 
@@ -86,9 +89,9 @@ If you need to get a story out at the last minute, you can always publish the po
 After posting the new interview, please promote the interview in the following places: 
 
 - Submit a link to the [PyLadies Reddit](http://reddit.com/r/pyladies/) subreddit
-- Announce the new interview through the Django Girls Facebook page 
-- Tweet from the Django Girls Twitter account. Don’t forget to mention the interviewees Twitter handle in your tweet! 
+- Announce the new interview through the [Django Girls Facebook](https://www.facebook.com/djangogirls) page 
+- Tweet from the [Django Girls Twitter](https://twitter.com/djangogirls) account. Don’t forget to mention the interviewees Twitter handle in your tweet! 
 
-You can scroll through old Django Story Facebook and Twitter posts to get an idea what the posts should look like. You can include a quote from the interview, or mention the open source or community projects the interviewee is involved in. 
+You can scroll through old Django Story [Facebook](https://www.facebook.com/djangogirls) and [Twitter](https://twitter.com/djangogirls) posts to get an idea what the posts should look like. You can include a quote from the interview, or mention the open source or community projects the interviewee is involved in. 
 
 
