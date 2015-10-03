@@ -32,7 +32,7 @@ You can reach her at lucie@djangogirls.org or hello@djangogirls.org.
 
 ## Django Story
 
-The Django Story series on our [blog](blog.djangogirls.org) profiles one woman Django programmer each week.
+The Django Story series on our [blog](http://blog.djangogirls.org/) profiles one woman Django programmer each week.
 
 Team members: 
 
