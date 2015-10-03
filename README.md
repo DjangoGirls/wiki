@@ -40,6 +40,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Add subdomain redirect?](howto/new-subdomain-redirect.md)
 - [Write Django Girls Dispatch (newsletter)](howto/write-a-newsletter.md)
 - [Add a Twitter contributor](howto/add-to-twitter.md)
+- [Run the Django Story blog series](howto/story.md)
 
 #### Email templates
 
