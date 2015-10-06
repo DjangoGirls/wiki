@@ -21,6 +21,17 @@ If you want to discuss something inside of the support team, just e-mail hello@d
 
 Always reply to all (unless you want to remove someone from conversation, or answer privately).
 
+## support.team@djangogirls.org
+
+> Introduced on 6th October, 2015
+
+As the volume of emails on hello@djangogirls.org grew, and we hired Awesomeness Ambassador to handle most of the incoming communication, Support Team decided that there is no need for the whole team to read all of the hello@djangogirls.org emails. It also became clear that we need a way to bring something to the team's attention that is not going to disappear in the wave of other emails.
+
+So since 6th of October 2015, we introduced a new, internal Google Group address support.team@djangogirls.org, that is meant to make it easy for Support Team to communicate effectively between each other.
+
+- If Awesomness Ambassador, or any other Support Team member notice that there is a hello@djangogirls.org email that should be read by the whole team, they can forward it to support.team@djangogirls.org
+- If Support Team member wants to communicate something important to other team members, they should send it to support.team@djangogirls.org
+
 ## Adding/removing someone from/to conversation
 
 If you're adding someone new to CC or recipient of an email, or removing someone from the conversation, it's best to let others know that it happened. You can do this simply by doing something like this:
