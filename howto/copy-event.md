@@ -23,3 +23,29 @@ Website is ready here: http://djangogirls.org/berlin
 Congrats on yet another event!  
 
 :tada:!
+
+## If you're copying a one year old event
+
+1. Copy the previous event
+2. [Add organizer](../howto/add-organizer.md) if necessary
+2. Check if the team is on slack
+3. Check if the event has a dedicated email account ([nameofthecity]@djangogirls.org) and add it to the [event](https://djangogirls.org/admin/core/event/) if it's missing.
+4. Use this [email template](../howto/emails/copy_year_old_event.md) and send it to the team <3
+
+### Check if the team is on Slack
+
+1. Go to [slack admin interface](https://djangogirls.slack.com/admin)
+2. Use the search function
+
+### Add someone to Slack
+
+If the team has changed or you can't find them:
+
+1. Go to [slack admin interface](https://djangogirls.slack.com/admin)
+2. Click on "Invite new members"
+3. Click on "Full members"
+3. Add as many people as you need and click on "Invite n person"
+
+### Email account
+
+Old events usually have an email account but sometimes not connected to their event in our database. Add it to the new event in the [admin interface](https://djangogirls.org/admin/core/event/).

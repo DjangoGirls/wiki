@@ -48,6 +48,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [First reply for new organizer request](howto/emails/organize-request-reply.md)
 - [Ping for organizers that are late](howto/emails/late-ping.md)
 - [Thank you email for organizer](howto/emails/thank_you.md)
+- [Email for a one year old team making a new event](howto/emails/copy_year_old_event.md)
 
 #### Process
 
