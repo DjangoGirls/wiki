@@ -23,18 +23,16 @@ Example welcome message:
 
 **3) Create e-mail address:**
 
-https://admin.megiteam.pl/p2/poczta/konta/*/dodaj/
-
-Address: always *city*@djangogirls.org  
-Password: use Megiteam's generator. Also, paste password in the account description  
-E-mail size: 1024 MB.
-
-**4) Create e-mail address alias:**
-
-Go to: [https://admin.megiteam.pl/p2/poczta/aliasy/*/dodaj/](https://admin.megiteam.pl/p2/poczta/aliasy/*/dodaj/)
-
-And create an alias from *city*@djangogirls.com to *city*@djangogirls.org
-
+1. Go to [Google Apps Admin Console](https://admin.google.com/AdminHome#UserList:org=1glcp172anflfd)
+2. Click on "Users"
+3. Click on "Add User" button in the right bottom corner.
+  - First name: Django Girls
+  - Last name: [Name of the city]
+  - Primary email address: [nameofthecity]@djangogirls.org
+  - Click "Additional info":
+    - Secondary email address: [private, non @djangogirls email of main organizer]
+  - Click "Create"
+4. Copy password.
 
 **5) Send e-mail instructions:**
 
