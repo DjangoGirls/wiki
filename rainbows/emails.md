@@ -90,6 +90,38 @@ Baptiste to Mikey:
 
 Since then, you see similar signatures in almost all Django Girls communication, including ones with sponsors! Feel free to be creative and a bit fun!
 
+## How to stock and use template email in Gmail
 
+You can activate a cool feature in Gmail lab to grab a email template in two clicks.
 
+1. Click on the gear
+2. Select "Settings"
+3. Open the "labs" tap
+4. Search for "Canned Responses"
+5. Activate it
+6. Save your settings
 
+### Save a template
+
+1. Click on the "Compose" button
+2. Copy-past an email template from our wiki
+3. Give your email a subject
+4. Click on "More option" in the bottom-right of the email windows
+5. Go in "Canned responses" and save it by clicking on "new canned response"
+
+### Use a template
+
+1. Click on the "Compose" button
+2. Click on "More option" in the bottom-right of the email windows
+3. Go in "Canned responses" and select the template you want in the "insert" section
+4. Don't forget to adapt it if necessary and send your email :postbox:
+
+## How to cancel an email you just sent in Gmail
+
+You forgot to add hello@djangogirls.org in CC or sent an email to the wrong person! Well, it's too late for this time, so how to be sure it won't happen again?
+
+1. Click on the gear
+2. Select "Settings"
+3. Scroll to the "Undo Send:" section
+4. Click on "Enable Undo Send" and set a timer
+5. When you send an email, you will now have a small pop-up with a link to cancel the email you just sent.
