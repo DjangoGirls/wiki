@@ -2,7 +2,7 @@
 
 # Emails
 
-Our main account is hello@djangogirls.org.
+Our main account is hello@djangogirls.org. See [Communication Guidelines](communication.md) for tips on how to keep emails short, strike an encouraging tone, and respond to difficult emails. 
 
 ## What happens when someone sends email to hello@djangogirls.org
 
@@ -51,44 +51,6 @@ Handy!
 ## Who should answer to emails?
 
 Anyone can answer anything! It's good to divide somehow evenly, but it doesn't really matter that much. We aim to answer all emails in maximum three days. It's not always possible though.  
-
-## What to do with hard emails?
-
-Sometimes answering an e-mail is not trivial. If you're not sure what to write, discuss it with us on Slack. In this case we usually draft something up on Google Drive first, improve it, and then send it. 
-
-## Communication style
-
-### Keep it short. SHORT!
-
-Keep your email simple and short, but with a nice touch. We all get hundreds of emails every day, and rarely does anyone have time to read 3 paragraphs. Ola Sitarska has an allergy for long e-mails.
-
-- Every single word is important
-- Plain english: keep it simple.
-- Re-read, cut unnecessary words
-- Then read it again and cut more words
-- Do you really need all these words?
-- Then ask someone to review it, so they can cut even more words (Are you sensing a pattern?)
-- Maybe one more word? Make space for some emojis!
-- Add one of our timeless signatures
-- Maybe some :sparkles:?
-
-### Be nice
-
-Tell people that they're awesome and that they rock. Because they do! 
-
-## Timeless signatures
-
-Originally invented by Mikey Ariel and Baptiste Mispelon on 17th Febuary 2015 while discussing copyrights.
-
-The first ever signature, by Mikey to Baptiste:
-
-    Thanks! Hugs! Cupcakes!
-
-Baptiste to Mikey:
-
-    Cheers, high fives and donuts,
-
-Since then, you see similar signatures in almost all Django Girls communication, including ones with sponsors! Feel free to be creative and a bit fun!
 
 ## How to stock and use template email in Gmail
 

@@ -25,9 +25,9 @@ The first paragraph should stay the same; the second paragraph is where you can 
 ![Screenshot of questions](http://i.imgur.com/SiR8uEA.png)
 
 ## Footer 
-Includes a thank-you to the interviewee, as well as information about you as the interviewer! 
+Includes a thank-you to the interviewee, information about how to suggest someone as an interviewee, as well as information about you as the interviewer! 
 ``` 
-Thanks Sonia! :)
+Thanks Sonia! :) If you would like to suggest someone to be featured in the Your Django Story series (or would like to nominate yourself!), send an email to story@djangogirls.org! 
 
 <hr><div class="author">
 <div class="photo"><img alt="image" src="https://pbs.twimg.com/profile_images/574569088359489536/C7MkEYd_.jpeg"></div>

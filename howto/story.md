@@ -1,5 +1,5 @@
 # Django Story 
-> Thank you to Anna Ossowski, the first runner of the Your Django Story series, for her help in putting together this section of the wiki. 
+*Thank you to Anna Ossowski, the first runner of the Your Django Story series, for her help in putting together this section of the wiki.*
 
 First of all, thanks for helping out with Django Story, our blog series that features a woman Django developer each week! It's important to give the women who take our workshops and go through our tutorial online examples of good women role models from all over the world.  
 
@@ -24,6 +24,7 @@ This is the fun part! There are several ways to find women to interview for the 
 2. When someone agrees to be interviewed, ask them if they know of other women Django developers who you could contact! 
 3. Look for Django Girls workshop organizers and coaches! The organizers and coaches come from all over the world and have a wide variety of experiences. Check out the upcoming events from time to time and reach out to some of the organizers and coaches on Twitter or through email. 
 4. If you attend a conference, or see some people you follow on Twitter tweeting about one, take a look at the schedule. Maybe there's a Django developer presenting that we haven't featured yet. 
+5. Solicit recommendations! Occasionally tweet out a request for more recommendations, be sure to publicize that people can email story@djangogirls.org with new suggestions, etc. 
 
 Some things to keep in mind: Some people will respond right away, some people may take longer to respond and complete the interview, some people won’t respond at all (even if you remind them). This is totally normal. Please don’t get discouraged if some people are not interested in doing an interview or you never hear from them. Sometimes people will decline to do an interview because they think they don’t know enough Django, their story is not interesting, etc. In those cases, we highly recommend trying to encourage them. Tell them that they do great work, and that we need more women role models, and you'd love to hear their story. Sometimes that helps, and sometimes they might still decline. Respect their decision if they decline again, and don't push them. 
 
