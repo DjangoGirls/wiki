@@ -20,3 +20,15 @@ python manage.py collectstatic
 5. Reload `djangogirls2.pythonanywhere.com`, `djangogirls.org` and `www.djangogirls.org`.
 
 :tada:!
+
+## Git hooks
+
+We use some git hooks to automate a few things. You can find them in the
+`githooks` folder of the website repository.
+
+### `post-merge`
+
+This hook is run whenever you run `git pull origin master` and will notify
+opbeat that new code has been deployed.
+
+**This hook should only be installed on the server.**
