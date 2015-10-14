@@ -14,19 +14,19 @@ Support team are people who support organizers, coaches and contributors.
 
 Team members:
 
-- Ola Sitarska
-- Ola Sendecka
-- Baptiste Mispelon (joined January 2015)
-- Ania Warzecha (joined January 2015)
-- Kasia Kamińska (joined June 2015)
-- Geoff Sechter (joined June 2015)
-- Lacey Williams Henschel (joined July 2015) 
+- Ola Sitarska - olasitarska@djangogirls.org
+- Ola Sendecka - olasendecka@djangogirls.org
+- Baptiste Mispelon - baptiste@djangogirls.org (joined January 2015)
+- Ania Warzecha - ania@djangogirls.org (joined January 2015)
+- Kasia Kamińska - kasia@djangogirls.org (joined June 2015)
+- Geoff Sechter - geoffrey@djangogirls.org (joined June 2015)
+- Lacey Williams Henschel - lacey@djangogirls.org (joined July 2015) 
 
 You can reach them by writing to hello@djangogirls.org.
 
 ## Django Girls Awesomeness Ambassador
 
-- Lucie Daeye
+- Lucie Daeye - lucie@djangogirls.org
 
 You can reach her at lucie@djangogirls.org or hello@djangogirls.org.
 
