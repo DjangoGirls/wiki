@@ -32,11 +32,14 @@ You can reach her at lucie@djangogirls.org or hello@djangogirls.org.
 
 ## Django Story
 
-The Django Story series on our [blog](http://blog.djangogirls.org/) profiles one woman Django programmer each week.
+The Django Story series on our [blog](http://blog.djangogirls.org/) profiles one woman Django programmer each week. 
 
 Team members: 
 
-- Anna Ossowski 
+- Adrienne Lowe (Nov. 2015 - present) 
+- Anna Ossowski (Nov. 2014 - Oct. 2015) 
+
+You can reach them by writing to story@djangogirls.org. 
 
 ## Translation Managers
 
