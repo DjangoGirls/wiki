@@ -18,6 +18,7 @@ You can contact our translations managers at this address: `translations@djangog
 To add someone to an existing team, send them this link: `https://crowdin.com/project/django-girls-tutorial/invite/`. Do not use the link provided by Crowdin: it won't work! If possible, send them the [Translation guide](http://translate.djangogirls.org/).
 
 If you need to create a new language team:
+
 1. Click on the `Target Languages` button in the `Translations` section [here](https://crowdin.com/project/django-girls-tutorial/settings#translations).
 2. Click on the language you want to add and click on `update`.
 3. Invite new translators with this link: `https://crowdin.com/project/django-girls-tutorial/invite/`. Don't forget to send them the [Translation guide](http://translate.djangogirls.org/).
@@ -27,6 +28,7 @@ If you need to create a new language team:
 A translator will be able to translate and vote (blue progress bar). To get a translation approved, you will need one or two persons to proofread it one last time (green process bar): their approval will "fix" the translation.
 
 To give proofreading status to someone:
+
 1. Go in the [Translators](https://crowdin.com/project/django-girls-tutorial/settings#members) section.
 2. Use the search function: we have many contributors <3
 3. Double click on the person you want to make proofreader.
@@ -40,6 +42,7 @@ First thing: congratulate translators and proofreaders! They made an amazing job
 There's still some work to do before a translation can be available on GitBook. You will need to check if the translation is 100% approved. If it's not the case, add proofreaders to the team and ask them to contact you again when this last part is done.
 
 When a translation is 100% approved:
+
 1. Send the team the last build for their language and a file with the name of every person who contributed to their translation.
 2. Ask them to do the final tasks listed [here](http://translate.djangogirls.org/when_its_ready.html).
 3. Review their pull request [here](https://github.com/DjangoGirls/tutorial/) and merge it when it's ready.
