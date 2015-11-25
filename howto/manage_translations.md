@@ -25,9 +25,9 @@ If you need to create a new language team:
 
 ### Translators and proofreaders role
 
-A translator will be able to translate and vote (blue progress bar). To get a translation approved, you will need one or two persons to proofread it one last time (green process bar): their approval will "fix" the translation.
+A translator will be able to translate and vote (blue progress bar). To get a translation approved, you will need one or two persons to proofread it one last time (green process bar): their approval will freeze the translation.
 
-To give proofreading status to someone:
+To give proofreader status to someone:
 
 1. Go in the [Translators](https://crowdin.com/project/django-girls-tutorial/settings#members) section.
 2. Use the search function: we have many contributors <3
@@ -43,7 +43,7 @@ There's still some work to do before a translation can be available on GitBook. 
 
 When a translation is 100% approved:
 
-1. Send the team the last build for their language and a file with the name of every person who contributed to their translation.
+1. Send to the team the last build for their language and a file with the name of every person who contributed to their translation (see below).
 2. Ask them to do the final tasks listed [here](http://translate.djangogirls.org/when_its_ready.html).
 3. Review their pull request [here](https://github.com/DjangoGirls/tutorial/) and merge it when it's ready.
 4. Check if the book is building on [GitBook](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/activity) and fix problem if there is any. 
