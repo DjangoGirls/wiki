@@ -12,6 +12,7 @@ In order to update DjangoGirls.org website, you need to have access to our Pytho
 cd /home/djangogirls/djangogirls.com
 git pull origin master
 workon djangogirls.com
+pip install -r requirements.txt
 python manage.py collectstatic
 ```
 
