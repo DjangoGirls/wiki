@@ -6,19 +6,13 @@ In order to update DjangoGirls.org website, you need to have access to our Pytho
 
 2. Open bash console in PythonAnywhere
 
-3. Type following commands:
+3. Type following command:
 
 ```
-cd /home/djangogirls/djangogirls.com
-git pull origin master
-workon djangogirls.com
-pip install -r requirements.txt
-python manage.py collectstatic
+./deploy.sh
 ```
 
-4. Go to [web tab in PythonAnywhere](https://www.pythonanywhere.com/user/djangogirls2/webapps/)
-
-5. Reload `djangogirls2.pythonanywhere.com`, `djangogirls.org` and `www.djangogirls.org`.
+This script will download latest modifications from Django Girls website repository, install packages from `requirements.txt`, collect statics and reload the website.
 
 :tada:!
 
