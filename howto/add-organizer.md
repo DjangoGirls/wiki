@@ -14,4 +14,3 @@ So you want to add a new organizer to an existing event without much hassle.
 
 Example welcome message:
 > This is a private group for Django Girls organizers only. We plan to use it to exchange ideas, help each other and share knowledge :smile: Please, use this list for all your questions or concerns.
-
