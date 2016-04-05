@@ -62,6 +62,7 @@ Team members:
 - Harry Percival
 - Honza Král
 - Paul Hallett
+- Marysia Lowas
 
 ## Social media team
 
