@@ -1,4 +1,4 @@
-# Django Girls Wiki 
+# Django Girls Wiki
 
 This is our internal wiki containing the documentation on what it takes to run the show. This is not a document aimed at organizers, coaches or attendees of Django Girls, but at the Django Girls support team -- people who support organizers in making their events happen.
 
@@ -50,6 +50,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Ping for organizers that are late](howto/emails/late-ping.md)
 - [Thank you email for organizer](howto/emails/thank_you.md)
 - [Email for a one year old team making a new event](howto/emails/copy_year_old_event.md)
+- [Cancelling event & revoking rights to use the name](howto/emails/cancel-event.md)
 
 #### Process
 
@@ -64,4 +65,4 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 
 ### Why are you not using *enter another wiki name*?
 
-Because this works for us. 
+Because this works for us.
