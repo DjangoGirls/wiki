@@ -4,13 +4,20 @@ Every two weeks we send Django Girls Dispatch. For now, we've divided work acros
 
 ## How?
 
-We use [Createsend](https://djangogirls.createsend.com/) to create our newsletters.
+We use [Mailchi](https://login.mailchimp.com/) to create our newsletters.
 
-1. Go to [https://djangogirls.createsend.com/](https://djangogirls.createsend.com/).
-2. Use credentails from Meldium (under "Campaign Monitor") to log in.
-3. Click "Create a new campaign" button (big green button on the right).
-4. Choose name and so on and after accepting, choose one of the previous newsletters as a base.
-5. Start to write!
+1. Go to [https://login.mailchimp.com/](https://login.mailchimp.com/).
+2. Use credentails from Meldium (under "Mailchimp") to log in.
+3. Click on `Regular Campaign` in `Create Campaign` drop-down menu.
+4. Chose `Django Girls Newsletter` and click on next (hidden at the bottom right of the page).
+5. Fill the `Name your campaign` and `Email subject` fields.
+6. Click on `Auto-tweet campaign as djangogirls` and `Auto-post to Facebook after sending` and fill those fields.
+7. Click on next.
+8. Select `Classic newsletter template` in `Saved Templates` tab.
+9. Write the Dispacth! If you need help, Mailchimp has awesome docs: you can access it by clicking on help or by going [here](http://kb.mailchimp.com/).
+10. When you're done, send a test email: click on `Preview and Test` and `Send a test email`.
+11. When you're happy and ready to send the Dispatch, click on next and do the final checklist.
+12. Click on send and celebrate! 
 
 ## Where to look for resources?
 
@@ -22,11 +29,3 @@ We use [Createsend](https://djangogirls.createsend.com/) to create our newslette
 * if we are planning or in the process of some important things (like hiring, working on some bigger project, starting some campaign) - make sure to mention it. 
 * check [GitHub](https://github.com/DjangoGirls/tutorial) - any big changes in last fortnight? Any new translations finished?
 * add upcoming events.
-
-## How to send a test email?
-
-1. Click on the campaign you want to test.
-2. Click on "Define recipients" button.
-3. Choose "Django Girls Newsletter" and click on "next".
-4. "Send a test" button is now available! Click on it!
-5. Choose or enter a new email address and click on "send the test email".
