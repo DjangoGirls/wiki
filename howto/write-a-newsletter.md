@@ -17,7 +17,10 @@ We use [Mailchi](https://login.mailchimp.com/) to create our newsletters.
 9. Write the Dispacth! If you need help, Mailchimp has awesome docs: you can access it by clicking on help or by going [here](http://kb.mailchimp.com/).
 10. When you're done, send a test email: click on `Preview and Test` and `Send a test email`.
 11. When you're happy and ready to send the Dispatch, click on next and do the final checklist.
-12. Click on send and celebrate! 
+12. Click on `send`
+13. Do a victory dance, you've earned it!
+14. Go back to the Dashboard and click on `Campaigns` in the top menu.
+15. Select the campaign you've just sent and move it to `Previous Newsletter`: it will update our [newsletter page](https://djangogirls.org/newsletter/) on Django Girls website.
 
 ## Where to look for resources?
 
