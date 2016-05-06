@@ -7,7 +7,7 @@ Our main account is hello@djangogirls.org. See [Communication Guidelines](commun
 ## What happens when someone sends email to hello@djangogirls.org
 
 1. First, the e-mail is automatically forwarded to each member of the support team. 
-2. The e-mail is also automatically forwarded to django-girls-core mailing list, which serves as a read-only archive.
+2. The e-mail is also automatically forwarded to ~~django-girls-core~~ hello-archives mailing list, which serves as a read-only archive.
 3. Whoever has free time first, replies to an e-mail.
 4. :tada:
 
