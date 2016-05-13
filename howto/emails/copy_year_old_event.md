@@ -30,6 +30,6 @@ Your website is currently hidden for public, you can only see it if you’re log
 
 Instructions on editing website: http://organize.djangogirls.org/website/
 
-Let me know if you need anything. It’s usually faster to post questions to our Google Group of Django Girls Organizers or Slack channel - there are more people that can help you! :)
+You can contact me again if you need assistance but it’s usually faster to check our FAQ(http://organize.djangogirls.org/faq/index.html) or to post questions to our Google Group of Django Girls Organizers(https://groups.google.com/forum/#!forum/django-girls-organizers) or Slack channel(https://djangogirls.slack.com) - there are more people that can help you! :)
 
 Hugs, rainbows and sunshines!
