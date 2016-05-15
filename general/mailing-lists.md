@@ -14,7 +14,9 @@ This group is public. It has the same objectives as the django-girls mailing lis
 
 ## django-girls-organizers
 
-This is a private mailing lists for organizers only. We use this to announce things that concerns organizers only, look for volunteers, discuss things with them. 
+This is a private mailing lists for organizers only. We use this to announce things that concerns organizers only, look for volunteers, discuss things with them.
+ 
+ To be sure to reach everyone, you can add organizers@djangogirls.org in CC.
 
 ## ~~django-girls-core~~ hello-archives
 

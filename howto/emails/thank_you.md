@@ -19,7 +19,11 @@ Especially, we would like to have the answers to 1 and 2 questions as soon as po
 
 If you want to write on your experience as an organizer or share with the community all the awesome things that happened during your event, you can write a post on our [blog](http://blog.djangogirls.org/submit). You did something cool: don't be shy and brag about it!
 
-It'd be also great if you could invite all of your attendees and coaches to join our Django Girls mailing list (https://groups.google.com/forum/#!forum/django-girls) so they can stay in touch with the community. If you don't have permissions to invite them yet, let us know, we will grant them to you. After that, is as simple as pasting email addresses and writing a short invitation. Of course, they won't be added automatically, they will still have to join the invitation.
+If you would like to add your pictures to our Flickr account (https://www.flickr.com/photos/djangogirls/), just tell us and we will give more details about that.
+
+It'd be also great if you could invite all of your attendees and coaches to join our Django Girls mailing list (https://groups.google.com/forum/#!forum/django-girls) so they can stay in touch with the community. If you don't have permissions to invite them yet, let us know, we will grant them to you. After that, is as simple as pasting email addresses and writing a short invitation. Of course, they won't be added automatically, they will still have to accept the invitation.
+
+Since we now have our own shop, we can generate discount codes! Use [CODE] to get a 15% discount on your order. You can share this code with your coaches and attendees ;) All proceeds will go to Django Girls Foundation to make the charity sustainable.
 
 If you want to plan an other event someday, don't hesitate to [contact us](https://djangogirls.org/organize/) again!
 
