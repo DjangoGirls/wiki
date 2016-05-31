@@ -1,19 +1,19 @@
 [<- back to index](../README.md)
 
 # About the Support Team 
-## Getting Added to the Support Team 
+## Joining the Support Team 
 1. Current support team agrees that there is a need to add a new support team member. Reasons for this include: 
   - Workload is heavy, and more team members would help reduce workload for everyone **(this is the most common reason someone is added to the support team)** 
   - New perspective on a specific issue that affects Django Girls 
   - New perspective on the general direction of Django Girls 
-2. A support team member nominates a new person. A person is usually nominated on the following basis: 
+  - Terms of past members expired, or they've decided to leave the Support Team
+2. Support Team announces a nomination period for new members, and allow all community members to nominate someone who they think would be a good addition to the team. Nominations are opened for two weeks, and are public in form of Pull Requests to Django Girls repository. Self-nominations are more than welcome! A person is usually nominated on the following basis: 
   - they’ve organized an event that went particularly well; 
   - they have remained active in Django Girls before and after their event; 
   - they have been helpful in Slack and other channels to other organizers and community members; 
   - they contributed to Django Girls things that the current support team feels were missing, and the addition of this person will make the team more complete;
-  - the support team thinks they would work well with the other members of the team; 
-  - the support team thinks they have worked in such a way that they made a greater impact on the whole community or have put an extra mile while working for the community. 
-3. The other members of the support team unanimously agree to add that member. 
+  - they have worked in such a way that they made a greater impact on the whole community or have put an extra mile while working for the community. 
+3. The current Support Team members decide to invite new members to the team. They all must agree for each particular person to join.
 4. The new potential member receives an email, offering them a spot on the support team, which they are free to accept or reject. 
 
 ## Frequently Asked Questions 
@@ -40,19 +40,23 @@ Read the [Start Sparkling Guide](sparkling.md) for an overview, but some tasks w
 - Document processes, like this wiki! 
 
 ### How many people need to be on the support team? 	
-That’s a tough question. Django Girls is only a year old, and it’s growing really fast. Once the Awesomeness Ambassador is hired, some of the above work will be taken over by that person (email, setting up new events, etc.), so hopefully the Support Team can focus on improving the website and resources, and planning for the future. 
+That’s a tough question. Django Girls is only two years old, and it’s growing really fast. Awesomeness Ambassador is currently taking a big chunk of work listed above (email, setting up new events, etc.), so the Support Team can focus on improving the website and resources, and planning for the future. 
 
-Since Django Girls is so young and is growing so rapidly, it’s hard to know. As Django Girls grows and the role of the Support Team changes, we will continue to think about how to define the role of the Support Team more clearly. 
+As Django Girls grows and the role of the Support Team changes, we will continue to think about how to define the role of the Support Team more clearly.
+
 ### How long is a Support Team appointment? 
-That’s another great question. At the moment, no set length of time. Django Girls is, again, only a year old. Ania and Baptiste joined in January 2015; Geoff and Kasia joined in June 2015; and Lacey joined in July 2015. No one on the Support Team has served a full year yet, other than Ola and Ola (who are founders, and so were the Support Team before there even was a Support Team!). 
+Up until June 2016, the appointment of a Support Team member had no set length of time. However, as we struggled with more and more work-life balance issues and burnout of the members, we've decided to introduce a set period of time each member is asked to join: 6 months. 
 
-Work-life balance is important to us, so if someone wanted to leave the Support Team, we would support that, and evaluate whether there is enough workload to justify replacing that person (if we haven’t yet decided on the number of people the Support Team should have). But at this time, there aren’t plans to limit the amount of time someone can serve on the Support Team. 
+After 6 months expires, each member is asked if they want to serve on the team for another period of 6 months. Everybody is welcomed to stay, but they need to make that clear with another opt-in. This way we give everyone a chance to re-evaluate their commitments without feeling guilty about it. 
 
-We will think about that, though! We want to balance consistency on the Support Team with getting diverse perspectives on the future of the organization and also protecting the members of the Support Team from burnout. 
+Work-life balance is important to us, so if someone wants to leave the Support Team early, we would support that, and evaluate whether there is enough workload to justify replacing that person (if we haven’t yet decided on the number of people the Support Team should have). 
+
+After leaving the Support Team, past members are still welcome to come back if at any point they feel like helping out again.
+
 ### How can I nominate someone to be on the Support Team? 
 Email [hello@djangogirls.org](hello@djangogirls.org)! We would love to hear from you about who you think would be a great addition to the Support Team. 
 Like we said, we’re adding members as we feel we need to, based on workload, so while we value your opinion, your person might not be added immediately. But, as you can see, there are many ways to contribute to Django Girls! If you know someone (or you yourself) would like to volunteer in another way, we’d love to hear from you. 
-### Why don’t you take public nominations and do public voting like the DSF and PSF? 
+### Why don’t you do public voting like the DSF and PSF? 
 The DSF and PSF are very large organizations that serve a lot of people. They also have the benefit of having been around a long time. We feel that adopting a governance structure similar to theirs is premature, but that doesn’t mean that won’t change. 
 
 At this point, we are trying to balance being transparent with making sure Django Girls is a supportive, sustainable organization. Our main mission is to help people put on free programming workshops for women. We’re still growing and figuring out the best way to do that. 
