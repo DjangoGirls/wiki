@@ -2,7 +2,7 @@
 
 In order to update DjangoGirls.org website, you need to have access to our PythonAnywhere account, and follow these instructions:
 
-1. [Login to PythonAnywhere](https://www.pythonanywhere.com/user/djangogirls2/consoles/). Credentials can be found in Meldium.
+1. [Login to PythonAnywhere](https://www.pythonanywhere.com/user/djangogirls2/consoles/). Credentials can be found in 1Password.
 
 2. Open bash console in PythonAnywhere
 

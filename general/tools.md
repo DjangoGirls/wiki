@@ -4,17 +4,17 @@
 
 We use various tools to help us stay on track and do things for us. We believe that tools are awesome and there is absolutely no reason to write a single line of code if someone else can do this for us. Here is a list of tools we use, and what do we use it for.
 
-## Megiteam
+## Google Apps
 
-Megiteam generously sponsored our email. We use it for creating accounts for each event (city@djangogirls.org), and aliases (city@djangogirls.com -> city@djangogirls.org). Their web client is not the best, so we usually just use email clients or forward all corespondence to our gmails. 
+We're using a non-profit version of Google Apps (free, forever). We use it for creating accounts for each event (city@djangogirls.org), and aliases (city@djangogirls.com -> city@djangogirls.org).
 
-Login details are in Meldium.
+Login details are in 1Password.
 
 ## Trello
 
-We use [Trello](http://trello.com/) for managing tasks and assignements. Our main Trello board is the one public for everyone: [Django Girls Trello](https://trello.com/b/q7p6jcfg/django-girls). We use it for almost all tasks. 
+We use [Trello](http://trello.com/) for managing tasks and assignments. Our main Trello board is the one public for everyone: [Django Girls Trello](https://trello.com/b/q7p6jcfg/django-girls). We use it for almost all tasks. 
 
-Make sure to always assign yourself to thing you've comitted yourself to do, and move the card to "in progress" or "done" to let others know that things are happening. 
+Make sure to always assign yourself to thing you've committed yourself to do, and move the card to "in progress" or "done" to let others know that things are happening. 
 
 There are also two private Trello boards:
 - [Django Girls Foundation](https://trello.com/b/BEIUCkCZ/django-girls-foundation) -- for all tasks and documents regarding the foundation. We're not sure if we can make this public, it's also just boring bureaucracy. Probably better to keep it private until we figure this out. 
@@ -52,11 +52,11 @@ It's also handy to install Gitbook locally if you want to test some bigger PR to
 
 [Crowdin](http://crowdin.com/) is our tutorial translation tool. To be honest, we haven't quite figured it out yet. 
 
-## Meldium
+## 1Password for Teams
 
-[Meldium](http://meldium.com/) is where we keep all of our passwords for services that doesn't support adding members to accounts. 
+[1Password for Teams](http://1password.com/) is where we keep all of our passwords for services that doesn't support adding members to accounts. 
 
-**You should keep your Meldium password really safe!**
+**You should keep your 1Password really safe!**
 
 ## Tumblr
 
@@ -66,9 +66,9 @@ It's also handy to install Gitbook locally if you want to test some bigger PR to
 
 [PythonAnywhere](http://pythonanywhere.com/) hosts our djangogirls.org website.
 
-## Campaign Monitor
+## MailChimp
 
-[Campaign Monitor](http://djangogirls.createsend.com/) is a tool we use for newsletters and marketing campaigns. We've got a template that we always use there.
+[Mailchimp](http://mailchimp.com/) is a tool we use for newsletters and marketing campaigns. We've got a template that we always use there.
 
 ## CloudFlare
 
