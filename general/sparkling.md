@@ -10,7 +10,7 @@ If you feel like this introduction is not complete (and it probably isn't), don'
 
 Django Girls Support Team is a group of people who support local organizers and Awesomeness Ambassador in organizing the local Django Girls events. Support Team maintains Django Girls resources and website, develops sources of income for the Django Girls Foundation, and supports daily operations of the organization.
 
-Support Team's role evolved with time: at the beginning, it was a group of people who shaped the way we put processes in place to support sustainability of Django Girls. Today, Support Team make sure that Django Girls community grows and supports Awesomeness Ambassador in their responsibilities. 
+Support Team's role evolved with time: at the beginning, it was a group of people who shaped the way we put processes in place to support sustainability of Django Girls. Today Support Team makes sure Django Girls community grows and supports Awesomeness Ambassador in their responsibilities. 
 
 You can read more about how the Support Team works, what we do, and how we add people in the [About the Support Team](support-team.md) section. 
 
