@@ -7,7 +7,7 @@ password with many people and in case we change it, we don't really need to info
 ## How to add someone as Contributor?
 
 1. Go to [Tweetdeck](tweetdeck.twitter.com)
-2. Log in with your own Twitter credentials (all support team members have admin rights). You could also use @djangogirls account credentials that are stored in Meldium.
+2. Log in with your own Twitter credentials (all support team members have admin rights). You could also use @djangogirls account credentials that are stored in 1Password.
 3. Click icon with "Accounts" (icon with users) - you will find it on left hand side at the bottom.
 4. Choose Django Girls and then "Team @djangogirls"
 5. Add Twitter handle of person you want to add and click "Authorize".

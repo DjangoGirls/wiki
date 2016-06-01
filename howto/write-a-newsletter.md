@@ -7,7 +7,7 @@ Every two weeks we send Django Girls Dispatch. For now, we've divided work acros
 We use [Mailchi](https://login.mailchimp.com/) to create our newsletters.
 
 1. Go to [https://login.mailchimp.com/](https://login.mailchimp.com/).
-2. Use credentails from Meldium (under "Mailchimp") to log in.
+2. Use credentails from 1Password (under "Mailchimp") to log in.
 3. Click on `Regular Campaign` in `Create Campaign` drop-down menu.
 4. Chose `Django Girls Newsletter` and click on next (hidden at the bottom right of the page).
 5. Fill the `Name your campaign` and `Email subject` fields.

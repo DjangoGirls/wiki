@@ -34,4 +34,4 @@ Send them the [first reply for new organizer request e-mail](emails/organize-req
 
 ## Want to edit the form?
 
-Go to [TypeForm](https://www.typeform.com/) website and use the credentials in [Meldium](https://meldium.com/).
+Go to [TypeForm](https://www.typeform.com/) website and use the credentials in [1Password](https://1password.com/).

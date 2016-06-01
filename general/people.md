@@ -17,9 +17,9 @@ Team members:
 - Ola Sitarska - olasitarska@djangogirls.org
 - Ola Sendecka - olasendecka@djangogirls.org
 - Baptiste Mispelon - baptiste@djangogirls.org (joined January 2015)
-- Ania Warzecha - ania@djangogirls.org (joined January 2015)
+- Ania Warzecha - ania@djangogirls.org (joined January 2015), currently inactive
 - Kasia Kamińska - kasia@djangogirls.org (joined June 2015)
-- Geoff Sechter - geoffrey@djangogirls.org (joined June 2015)
+- Geoff Sechter - geoffrey@djangogirls.org (joined June 2015), currently inactive
 
 Former members: 
 
