@@ -7,7 +7,7 @@
   - New perspective on a specific issue that affects Django Girls 
   - New perspective on the general direction of Django Girls 
   - Terms of past members expired, or they've decided to leave the Support Team
-2. Support Team announces a nomination period for new members, and allow all community members to nominate someone who they think would be a good addition to the team. Nominations are opened for two weeks, and are public in form of Pull Requests to Django Girls repository. Self-nominations are more than welcome! A person is usually nominated on the following basis: 
+2. Support Team announces a nomination period for new members, and allow all community members to nominate someone who they think would be a good addition to the team. Nominations are opened for two weeks, and are submitted privately to Google Form. Self-nominations are more than welcome! A person is usually nominated on the following basis: 
   - they’ve organized an event that went particularly well; 
   - they have remained active in Django Girls before and after their event; 
   - they have been helpful in Slack and other channels to other organizers and community members; 
