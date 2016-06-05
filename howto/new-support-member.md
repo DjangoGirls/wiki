@@ -1,9 +1,9 @@
 # Access for new team member
 
-> This is a checklist used when adding a new core team member, so we don't forget about all the places that he/she should have access to.
+> This is a checklist used when adding a new support team member, so we don't forget about all the places that he/she should have access to.
 
 1. Trello organization
-2. Create e-mail address on Megiteam
+2. Create e-mail address on Google Apps
 3. Setup forwarding from hello@djangogirls.org to individual email address
 5. Tumblr
 6. Github organization
@@ -18,7 +18,7 @@
  - http://djangogirls.org/admin/
 10. Crowdin
 11. Facebook page
-12. Meldium (passwords)
+12. 1Password (passwords)
 13. Slack
 14. Gitbook
 15. Twitter via Tweetdeck
