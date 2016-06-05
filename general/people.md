@@ -14,16 +14,18 @@ Support team are people who support organizers, coaches and contributors.
 
 Team members:
 
-- Ola Sitarska - olasitarska@djangogirls.org
-- Ola Sendecka - olasendecka@djangogirls.org
-- Baptiste Mispelon - baptiste@djangogirls.org (joined January 2015)
-- Ania Warzecha - ania@djangogirls.org (joined January 2015)
-- Kasia Kamińska - kasia@djangogirls.org (joined June 2015)
-- Geoff Sechter - geoffrey@djangogirls.org (joined June 2015)
+| Name              | E-mail                      | Joined       | Appointment expires on | Role / project                                                                                        |
+|-------------------|-----------------------------|--------------|------------------------|-------------------------------------------------------------------------------------------------------|
+| Ola Sitarska      | olasitarska@djangogirls.org | July 2014    | 5th January 2017       | Long-term sustainability of Django Girls, Django Girls Foundation, Django Girls Store, Workshop Boxes |
+| Ola Sendecka      | olasendecka@djangogirls.org | July 2014    | 5th January 2017       | Long-term sustainability of Django Girls, Django Girls Foundation, Design                             |
+| Ania Warzecha     | ania@djangogirls.org        | January 2015 | 5th January 2017       | Django Girls Foundation, Github maintenance                                                           |
+| Baptiste Mispelon | baptiste@djangogirls.org    | January 2015 | ?                      | Django Girls Foundation                                                                                 |
 
 Former members: 
 
-- Lacey Williams Henschel - lacey@djangogirls.org (July 2015-April 2016) 
+- Lacey Williams Henschel - lacey@djangogirls.org (July 2015 - April 2016) 
+- Kasia Kamińska - kasia@djangogirls.org (June 2015 - June 2016)
+- Geoff Sechter - geoffrey@djangogirls.org (June 2015 - June 2016)
 
 You can reach them by writing to hello@djangogirls.org.
 
