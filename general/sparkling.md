@@ -18,13 +18,15 @@ You can read more about how the Support Team works, what we do, and how we add p
 
 When we started the Support Team, there was no structure in our team or the way we work. Back then it worked for us, but since we hired Awesomeness Ambassador, things slowly started to change. 
 
-We're currently changing our structure so that everyone in the Support Team has a specific role or area they take care of. 
+We're currently changing our structure so that everyone in the Support Team has a specific role or area or project they take care of. [You can find a list of current roles here](people.md).
 
 ### Well-being
 
 Do you remember when on planes they say that you should first put your oxygen mask, and then help others? We believe in the same rule. Burnout is real, and self care is more important than anything else. We're all in this for the long run, so make sure to prioritize your free time, relax and hobbies.
 
-To make sure it's easier for every member of the team to take care of their well-being, we've decided to introduce terms
+To make sure it's easier for every member of the team to take care of their well-being, we've decided to introduce terms: each member of the team is appointed for 6 months only. After 6 months expires, each member is asked if they want to serve on the team for another period of 6 months. Everybody is welcomed to stay, but they need to make that clear with another opt-in. This way we give everyone a chance to re-evaluate their commitments without feeling guilty about it. 
+
+In addition to that, each member also takes a specific role or project they're responsible for, so they not feel guilty about all the other things that needs to get done but they're not responsible for.
 
 ### What do we do
 
