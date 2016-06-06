@@ -19,7 +19,7 @@ Team members:
 | Ola Sitarska      | olasitarska@djangogirls.org | July 2014    | 5th January 2017       | Long-term sustainability of Django Girls, Django Girls Foundation, Django Girls Store, Workshop Boxes |
 | Ola Sendecka      | olasendecka@djangogirls.org | July 2014    | 5th January 2017       | Long-term sustainability of Django Girls, Django Girls Foundation, Design                             |
 | Ania Warzecha     | ania@djangogirls.org        | January 2015 | 5th January 2017       | Django Girls Foundation, Github maintenance                                                           |
-| Baptiste Mispelon | baptiste@djangogirls.org    | January 2015 | ?                      | Django Girls Foundation                                                                                 |
+| Baptiste Mispelon | baptiste@djangogirls.org    | January 2015 | 5th January 2017       | Django Girls Foundation, Website maintenance                                                                                 |
 
 Former members: 
 
