@@ -42,7 +42,7 @@ Read the [Start Sparkling Guide](sparkling.md) for an overview, but some tasks w
 ### How many people need to be on the support team? 	
 That’s a tough question. Django Girls is only two years old, and it’s growing really fast. Awesomeness Ambassador is currently taking a big chunk of work listed above (email, setting up new events, etc.), so the Support Team can focus on improving the website and resources, and planning for the future. 
 
-As Django Girls grows and the role of the Support Team changes, we will continue to think about how to define the role of the Support Team more clearly.
+However, we're currently aiming for 6-8 people to be on the Support Team. This is not a hard requirement or limit yet. As Django Girls grows and the role of the Support Team changes, we will continue to think about how to define the role of the Support Team more clearly.
 
 ### How long is a Support Team appointment? 
 Up until June 2016, the appointment of a Support Team member had no set length of time. However, as we struggled with more and more work-life balance issues and burnout of the members, we've decided to introduce a set period of time each member is asked to join: 6 months. 
@@ -52,6 +52,11 @@ After 6 months expires, each member is asked if they want to serve on the team f
 Work-life balance is important to us, so if someone wants to leave the Support Team early, we would support that, and evaluate whether there is enough workload to justify replacing that person (if we haven’t yet decided on the number of people the Support Team should have). 
 
 After leaving the Support Team, past members are still welcome to come back if at any point they feel like helping out again.
+
+### How are decisions made in a Support Team?
+Most of the decisions that need to be made by Support Team require one +1 (two people agreeing it's a good thing). We encourage and practice asking everyone for opinion, but only one +1 is required for an idea. This allows us to move quickly and act on ideas even when availability of the team members is low. 
+
+Any major decisions (hiring or firing, spending significant amount of money, change having a significant impact on the community) are made by majority vote. We're continue working on having an explicit list of decisions that need to be made by majority vote as we go. Currently we implement majority vote whenever any member of Support Team thinks that decision is significant enough. 
 
 ### How can I nominate someone to be on the Support Team? 
 Email [hello@djangogirls.org](hello@djangogirls.org)! We would love to hear from you about who you think would be a great addition to the Support Team. 
