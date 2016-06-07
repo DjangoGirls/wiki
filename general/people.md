@@ -12,22 +12,34 @@ Ola Sitarska and Ola Sendecka started Django Girls together.
 
 Support team are people who support organizers, coaches and contributors. 
 
-Team members:
+**Current team members:**
 
-| Name              | E-mail                      | Joined       | Appointment expires on | Role / project                                                                                        |
+| Name              | E-mail                      | Joined       | Appointment expires on | Directly responsible for                                                                                |
 |-------------------|-----------------------------|--------------|------------------------|-------------------------------------------------------------------------------------------------------|
-| Ola Sitarska      | olasitarska@djangogirls.org | July 2014    | 5th January 2017       | Long-term sustainability of Django Girls, Django Girls Foundation, Django Girls Store, Workshop Boxes |
-| Ola Sendecka      | olasendecka@djangogirls.org | July 2014    | 5th January 2017       | Long-term sustainability of Django Girls, Django Girls Foundation, Design                             |
-| Ania Warzecha     | ania@djangogirls.org        | January 2015 | 5th January 2017       | Django Girls Foundation, Github maintenance                                                           |
-| Baptiste Mispelon | baptiste@djangogirls.org    | January 2015 | 5th January 2017       | Django Girls Foundation, Website maintenance                                                                                 |
+| Ola Sitarska      | olasitarska@djangogirls.org | July 2014    | 5th January 2017       | Long-term sustainability of Django Girls, Django Girls Store, Workshop Boxes |
+| Ola Sendecka      | olasendecka@djangogirls.org | July 2014    | 5th January 2017       | Long-term sustainability of Django Girls, Design                             |
+| Ania Warzecha     | ania@djangogirls.org        | January 2015 | 5th January 2017       | Github maintenance                                                           |
+| Baptiste Mispelon | baptiste@djangogirls.org    | January 2015 | 5th January 2017       | Website maintenance                                                                                 |
 
-Former members: 
+You can reach them by writing to hello@djangogirls.org.
+
+**Former members:**
 
 - Lacey Williams Henschel - lacey@djangogirls.org (July 2015 - April 2016) 
 - Kasia Kamińska - kasia@djangogirls.org (June 2015 - June 2016)
 - Geoff Sechter - geoffrey@djangogirls.org (June 2015 - June 2016)
 
-You can reach them by writing to hello@djangogirls.org.
+
+## Django Girls Foundation Trustees
+
+Django Girls Foundation Trustees are responsible for running the legal & financial side of Django Girls organization. 
+
+- Ola Sitarska
+- Ola Sendecka
+- Ania Warzecha
+- Bapiste Mispelon
+
+You can reach them by writing to foundation@djangogirls.org.
 
 ## Django Girls Awesomeness Ambassador
 
