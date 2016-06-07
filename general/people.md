@@ -21,6 +21,8 @@ Support team are people who support organizers, coaches and contributors.
 | Ania Warzecha     | ania@djangogirls.org        | January 2015 | 5th January 2017       | Github maintenance                                                           |
 | Baptiste Mispelon | baptiste@djangogirls.org    | January 2015 | 5th January 2017       | Website maintenance                                                                                 |
 
+[Learn what each area of direct responsibility means](support-team-projects.md).
+
 You can reach them by writing to hello@djangogirls.org.
 
 **Former members:**
