@@ -42,6 +42,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Run the Django Story blog series](howto/story.md)
 - [Onboard a new Django Story interviewer](howto/story_onboard.md)
 - [Manage translations](howto/manage_translations.md)
+- [Update Foundation's budget](howto/foundation-budget.md)
 
 #### Email templates
 
