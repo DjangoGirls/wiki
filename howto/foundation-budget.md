@@ -9,7 +9,7 @@
 4. Click on "Search and export activity"
 5. Select date range since latest update to now
 6. Export activity to CSV
-7. Run `cafbank.py` script like this: `python cafbank.py path_to_exported_csv.csv`
+7. Run [`cafbank.py` script](../scripts/cafbank.py) like this: `python cafbank.py path_to_exported_csv.csv`
 8. Upload newly generated CSV to Budget spreadsheet, ad as new sheet
 9. Copy data from new sheet and paste it to "Items" sheet in Budget ad the end. 
 10. Sort Items sheet by day, Z-A. 
