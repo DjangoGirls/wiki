@@ -4,37 +4,37 @@
 
 Welcome! If you're reading this, it means you're about to join the Django Girls Support Team. YAAAAAAAAAAAY!
 
-If you feel like this introduction is not complete (and it probably isn't), don't feel embarassed to ask questions and improve this guide. There is no such thing like a stupid question, and you will be helping the next person who reads it.
+If you feel like this introduction is not complete (and it probably isn't), don't feel embarrassed to ask questions and improve this guide. There is no such thing like a stupid question, and you will be helping the next person who reads it.
 
 ## What is Django Girls Support Team?
 
-Our definition goes like this: we believe that people in this team are the ones who can make a decision for the whole of Django Girls, and we won't be worried it's gonna be a wrong one. 
+Django Girls Support Team is a group of people who support local organizers and Awesomeness Ambassador in organizing the local Django Girls events. Support Team maintains Django Girls resources and website, develops sources of income for the Django Girls Foundation, and supports daily operations of the organization.
 
-People we trust enough to let them speak in our name, and we don't have to worry they're gonna say things we don't agree with. 
-
-People who share our values, offer new perspectives, will help us grow, and are fun to be around! 
-
-When choosing a new member we care more if we trust a person and we can rely on their judgement, than their skills or how much their contribute. Character fit is important for us. If we invite you to join us, it means that you have 100% of our trust, and not even a shadow of doubt from anyone on the team. Thanks to that, even if you make a mistake, we've got your back. 
-
-Being in this team doesn't necessarily mean many more responsibilities, although you may receive much (much) more emails than you receive now. The amount of work you would like to put into that depends on you. 
+Support Team's role evolved with time: at the beginning, it was a group of people who shaped the way we put processes in place to support sustainability of Django Girls. Today Support Team makes sure Django Girls community grows and supports Awesomeness Ambassador in their responsibilities. 
 
 You can read more about how the Support Team works, what we do, and how we add people in the [About the Support Team](support-team.md) section. 
 
 ## How we work
 
-There is no structure in our team or the way we work. So far it works for us, but it doesn't mean it's gonna continue working this way forever.
+When we started the Support Team, there was no structure in our team or the way we work. Back then it worked for us, but since we hired Awesomeness Ambassador, things slowly started to change. 
 
-There is no a category of tasks that are assigned specificially to one person, unless the person commit themselves to take care of it. It means that you can do everything or nothing, and that's okay. 
+We're currently changing our structure so that everyone in the Support Team has a specific role or area or project they take care of. [You can find a list of current roles here](people.md).
 
-It's better to ask for forgiveness, than permission. If you're in the team, it means we trust you in making your own decisions and acting before asking. 
+### Well-being
 
-Do you remember when on planes they say that you should first put your oxygen mask, and then help others? We believe in the same rule. Burnout is real, and self care is more important than anything else. We're all in this for the long run, so make sure to prioritize your free time, relax and hobbies. Don't feel bad when you're sipping a drink when everyone else is working -- just enjoy it. That's why there is so many of us in the team, so that someone can enjoy the sun and the show is still running. 
+Do you remember when on planes they say that you should first put your oxygen mask, and then help others? We believe in the same rule. Burnout is real, and self care is more important than anything else. We're all in this for the long run, so make sure to prioritize your free time, relax and hobbies.
+
+To make sure it's easier for every member of the team to take care of their well-being, we've decided to introduce terms: each member of the team is appointed for 6 months only. After 6 months expires, each member is asked if they want to serve on the team for another period of 6 months. Everybody is welcomed to stay, but they need to make that clear with another opt-in. This way we give everyone a chance to re-evaluate their commitments without feeling guilty about it. 
+
+In addition to that, each member also takes a specific role or project they're responsible for, so they not feel guilty about all the other things that needs to get done but they're not responsible for.
 
 ### What do we do
 
 There is a serval recurring tasks we take care of: 
 
 **1. Staying on top of hello@djangogirls.org**
+
+> Now mostly handled by [Awesomeness Ambassador](ambassador.md)
 
 This is our main recurring task. Our goal is to reply to every email that comes to this address in a couple of days maximum. 
 
@@ -44,21 +44,27 @@ Of course, we don't reply to spam and random unrelated emails.
 
 **2. Setting up new events**
 
-There is an established proccess of creating new Django Girls workshops. 
+> Now mostly handled by [Awesomeness Ambassador](ambassador.md)
 
-[Read more about the detailed proccess setting up a new event here.](../howto/new-event.md)
+There is an established process of creating new Django Girls workshops. 
+
+[Read more about the detailed process setting up a new event here.](../howto/new-event.md)
 
 **3. Making sure that planned events are happening :)**
+
+> Now mostly handled by [Awesomeness Ambassador](ambassador.md)
 
 This require checking out our calendar of events regularly and following up with organizers to make sure they stay on track. This is mainly to offer help to them: sometimes they're just stuck on making some decision and they need a little push.
 
 **4. Replying to questions from organizers**
 
+> Now mostly handled by [Awesomeness Ambassador](ambassador.md)
+
 Questions and requests from organizers come from everywhere: email, Slack, Github and else. Our goal is to make sure things run as smoothly as possible for them. 
 
 **5. Working on resources - tutorial, organizer's manual, tools, etc.**
 
-If we see that Django Girls community needs something, it's our job to make that happen. Either by doing it on our own, or asking for help. 
+If we see that Django Girls community needs something, we do our best to make that happen. Either by doing it on our own, or asking for help. 
 
 This includes:
 
@@ -127,7 +133,7 @@ Ok, so this is another really important thing. Here is how we handle the communi
 
 ### 1. Real time -- Slack
 
-We've got a private Slack channel for more real time discussions and kind of just hanging out. We discuss things that would require long emails, or immidiate response. It's also a support group: we talk about our daily lifes and things that suck or are awesome. Ania fixes Ola's headache, we recommend nail polish to each other or have serious talks about sexism. 
+We've got a private Slack channel for more real time discussions and kind of just hanging out. We discuss things that would require long emails, or immediate response. It's also a support group: we talk about our daily lives and things that suck or are awesome. Ania fixes Ola's headache, we recommend nail polish to each other or have serious talks about sexism. 
 
 ### 2. Less real time -- email
 
@@ -135,7 +141,7 @@ If you want to say something important that should reach everyone, write it on e
 
 #### Technicalities
 
-hello@djangogirls.org is an email that automatically forwards every email to each of the Support Team members. On every communication (reply, new email), you always cc hello@djangogirls.org. This way everyone has their seperate inbox, manager their own "read/unread/archived" emails, and also sees if emails has been reply to or not. 
+hello@djangogirls.org is an email that automatically forwards every email to each of the Support Team members. On every communication (reply, new email), you always cc hello@djangogirls.org. This way everyone has their separate inbox, manager their own "read/unread/archived" emails, and also sees if emails has been reply to or not. 
 
 If someone replies to you, but doesn't cc hello@djangogirls.org, even though the previous conversation was handled with hello@, then first forward it to hello@djangogirls.org, then reply to it with hello@ in CC again.
 
@@ -152,6 +158,3 @@ You can use your own email (or your @djangogirls.org email) to reply and write a
 [How we handle emails](../rainbows/emails.md)  
 [Deploy new city](../howto/deploy-city.md)  
 
-## Fun reading
-
-[Quotes](http://love.djangogirls.org)

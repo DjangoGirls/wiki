@@ -43,6 +43,8 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Onboard a new Django Story interviewer](howto/story_onboard.md)
 - [Manage translations](howto/manage_translations.md)
 - [Update Foundation's budget](howto/foundation-budget.md)
+- [Add a new Global Sponsor](howto/add-global-sponsor.md)
+- [How to manage GitHub sponsorship](howto/GitHub_sponsorship.md)
 
 #### Email templates
 
@@ -51,6 +53,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Thank you email for organizer](howto/emails/thank_you.md)
 - [Email for a one year old team making a new event](howto/emails/copy_year_old_event.md)
 - [Cancelling event & revoking rights to use the name](howto/emails/cancel-event.md)
+- [GitHub sponsorship emails](howto/emails/GitHub_sponsorship.md)
 
 #### Process
 
