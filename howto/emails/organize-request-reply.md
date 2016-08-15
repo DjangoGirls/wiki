@@ -4,7 +4,7 @@ Hi **[Name]**,
 
 We would love to have you as an organizer of Django Girls in **[Insert City]**!
 
-There are two requirements for becoming an organizer of Django Girls:
+There are three requirements for becoming an organizer of Django Girls:
 - being an awesome person - done! :) 
 
 - The event should be free for participants, and women should have a preference in the application process (but men can apply, too). You should also use the [tutorial we've prepared for workshops](http://tutorial.djangogirls.org/), and work in small groups of attendees and coaches (each group working at their own pace).
