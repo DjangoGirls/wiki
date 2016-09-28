@@ -6,7 +6,7 @@ Events that already received sponsorship from GitHub are listed [here](https://d
 
 ## What organizers need to do:
 
-At least one month before their event, they need to fill and send us one or two [forms](https://drive.google.com/drive/u/0/folders/0BxqF-fMgUfHUM0lRSGhBVjNyT1U) and an [invoice](https://docs.google.com/document/d/1WQw6Uqu2ppD0OmVBFdZeeAuBnWs21cGOsUOUfkWKZ3E/edit). Full process is described in the [Organizer Manual](http://organize.djangogirls.org/sponsors/#github-sponsorship).
+At least one month before their event, they need to fill the form available on [this page](https://djangogirls.org/sponsor-request/). Form results are sent by email to hello@djangogirls.org.
 
 ## What the Support Team needs to do:   
 
