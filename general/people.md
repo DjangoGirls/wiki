@@ -83,6 +83,20 @@ Team members:
 - Paul Hallett
 - Marysia Lowas
 
+## Tutorial PR reviewers
+
+Reviewers don't have commit access but they help us review tutorial PR, especially in language non of the Support Team speak. If you want to ping them on GitHub:
+
+- English team: @DjangoGirls/en-pr
+- Chinese team: @DjangoGirls/cn-pr
+- Spanish team: @DjangoGirls/es-pr
+- Italian team: @DjangoGirls/it-pr
+- Polish team: @DjangoGirls/pl-pr
+- Portuguese team: @DjangoGirls/pt-pr
+- Russian team: @DjangoGirls/ru-pr
+- Turkish team: @DjangoGirls/tr-pr
+- Ukrainian team: @DjangoGirls/uk-pr
+
 ## Social media team
 
 The social media team posts to our [Twitter](https://twitter.com/djangogirls) and [Facebook](https://www.facebook.com/djangogirls) profiles.
