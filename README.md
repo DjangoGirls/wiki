@@ -59,3 +59,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 
 - [When event is over?](howto/after_event.md)
 - [When new organizer apply to organize Django Girls event?](howto/new-event.md)
+
+#### Community
+
+- [Awesome meeting](community/awesome_meeting.md)
