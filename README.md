@@ -45,6 +45,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Update Foundation's budget](howto/foundation-budget.md)
 - [Add a new Global Sponsor](howto/add-global-sponsor.md)
 - [How to manage GitHub sponsorship](howto/GitHub_sponsorship.md)
+- [How to manage the store](howto/store.md)
 
 #### Email templates
 
