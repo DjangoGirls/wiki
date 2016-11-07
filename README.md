@@ -64,3 +64,4 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 #### Community
 
 - [Awesome meeting](community/awesome_meeting.md)
+- [How to make a Django Girls booth at a conference](community/booth.md)
