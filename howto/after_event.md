@@ -1,6 +1,14 @@
-# Congratulate the organizers!
+# Congratulations the organizers!
 
-First thing to do is to send a thank you [email](../howto/emails/thank_you.md).
+After each event, our website will automatically send organizers an e-mail
+thanking them for the organization and requesting them to add statistics about
+the attendance of their event.
+
+If organizers won't update the numbers within a week, they will receive another
+automatic email with a reminder to do it.
+
+If they still don't do it, Support Team or Awesomeness Ambassador can do it for them
+by copy pasting the information from the applications system. Below you can read how to do it.
 
 # How to give organizers the right to add people on Django Girls mailing list?
 
@@ -10,10 +18,9 @@ First thing to do is to send a thank you [email](../howto/emails/thank_you.md).
 4. In "role" section, click on "organizer".
 5. Save and you're done!
 
-# How to add data to a past event
+# How to add statistics to a past event
 
-1. Go to [Postmortems section](https://djangogirls.org/admin/core/postmortem/)
-2. Click on "add postmortem" button.
-3. Select the event in the list.
-4. Copy data from the email and save.
-5. :tada:
+1. Go to [Django Girls Admin -> Event](https://djangogirls.org/admin/core/event/)
+2. Edit an event you want to update the statistics for
+3. Update values of number of attendees and number of applicants
+4. :tada:
