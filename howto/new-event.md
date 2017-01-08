@@ -1,6 +1,6 @@
 # Someone applied to organize Django Girls event...
 
-..and now what? 
+..and now what?
 
 ## The ideal process
 
@@ -8,7 +8,7 @@
 2. The person provides enough details for us to realize that they:
  - have read the Organizer's Manual
  - they're pretty cool people.
-3. We follow the [Deploy to city process](deploy-city.md).
+3. We accept their application in the admin and magic happens.
 4. :tada:
 
 ## Troubleshooting
@@ -19,19 +19,18 @@ Send them the [organize or attend template e-mail](emails/organize_or_attend.md)
 
 #### You can't really judge if the person meets the conditions from point 2
 
-If they seem not ready, send them the [not enough pre-planning e-mail template](emails/not_enough_pre-planning.md). Hopefully, they will check the Organizer Manual and contact us when they're more prepared.
+Move their application to "in review" and ask additional questions by replying to
+the email with their application.
 
-#### They already have a good idea on how they want to organize their workshop and have read the Organizer Manual
-
-Send them the [first reply for new organizer request e-mail](emails/organize-request-reply.md).
+If they seem not ready, move their application to "rejected" state. Hopefully, they will check the Organizer Manual and contact us when they're more prepared.
 
 #### Still not sure if this person should organize Django Girls event?
 
-- Hangout with them on Google Hangouts. 
+- Hangout with them on Google Hangouts.
 - Find someone in the community to vouch for them.
 - Talk to them more via emails.
 - Recommend finding a co-organizer first.
 
-## Want to edit the form?
+#### Organizer changed their mind or stopped replying?
 
-Go to [TypeForm](https://www.typeform.com/) website and use the credentials in [1Password](https://1password.com/).
+Move their application into "in hold" state and add a comment. If they haven't replied for a longer period (like 30 days) reject their application.
