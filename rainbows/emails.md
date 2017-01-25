@@ -2,22 +2,22 @@
 
 # Emails
 
-Our main account is hello@djangogirls.org. See [Communication Guidelines](communication.md) for tips on how to keep emails short, strike an encouraging tone, and respond to difficult emails. 
+Our main account is hello@djangogirls.org. See [Communication Guidelines](communication.md) for tips on how to keep emails short, strike an encouraging tone, and respond to difficult emails.
 
 ## What happens when someone sends email to hello@djangogirls.org
 
-1. First, the e-mail is automatically forwarded to each member of the support team. 
+1. First, the e-mail is automatically forwarded to each member of the support team.
 2. The e-mail is also automatically forwarded to ~~django-girls-core~~ hello-archives mailing list, which serves as a read-only archive.
 3. Whoever has free time first, replies to an e-mail.
 4. :tada:
 
-## CC! 
+## CC!
 
-Can't stress this enough: **always add hello@djangogirls.org in cc for all your Django Girls communication**. This way we don't have to talk to each other a lot, and yet still everyone knows what's going on. 
+Can't stress this enough: **always add hello@djangogirls.org in cc for all your Django Girls communication**. This way we don't have to talk to each other a lot, and yet still everyone knows what's going on.
 
-This also allows us to pick up emails that haven't been responded to, so we know that conversation is not stuck on our end. 
+This also allows us to pick up emails that haven't been responded to, so we know that conversation is not stuck on our end.
 
-If you want to discuss something inside of the support team, just e-mail hello@djangogirls.org, so you are sure to reach each member, and don't have to find individual email addresses.  
+If you want to discuss something inside of the support team, just e-mail hello@djangogirls.org, so you are sure to reach each member, and don't have to find individual email addresses.
 
 Always reply to all (unless you want to remove someone from conversation, or answer privately).
 
@@ -46,11 +46,11 @@ or like this:
     Hey there!
     ...
 
-Handy!    
+Handy!
 
 ## Who should answer to emails?
 
-Anyone can answer anything! It's good to divide somehow evenly, but it doesn't really matter that much. We aim to answer all emails in maximum three days. It's not always possible though.  
+Anyone can answer anything! It's good to divide somehow evenly, but it doesn't really matter that much. We aim to answer all emails in maximum three days. It's not always possible though.
 
 ## How to stock and use template email in Gmail
 
@@ -87,3 +87,30 @@ You forgot to add hello@djangogirls.org in CC or sent an email to the wrong pers
 3. Scroll to the "Undo Send:" section
 4. Click on "Enable Undo Send" and set a timer
 5. When you send an email, you will now have a small pop-up with a link to cancel the email you just sent.
+
+## How to use "Multiple inboxes" lab
+
+"Multiple inboxes" is a Gmail lab that gives you up to 5 different tabs in Gmail webmail. Once you have (setup filters and labels)[http://brianrhea.com/using-multiple-inboxes-and-keyboard-shortcuts-with-gmail-for-inbox-zero/], you can use it to triage emails from Gmail webmail.
+
+### Lucie's workflow
+
+I use Multiple inboxes, (extra shortcuts)[https://support.google.com/mail/answer/6594] and canned responses. I've setup 5 different tabs:
+
+- "Events support": for when organizers need help on something
+- "Events requests": new requests automatically go there
+- "Github sponsoring": since organizers have two weeks to send their request, regrouping them makes it easier to find them again.
+- "Blog and stories": for people who send blog post for Django Girls blog
+- "Support Team meetings and stuff": for internal communication between the support team.
+
+Every morning, I triage emails:
+
+- I read the email
+- give it a label (l shortuct)
+- archive it (e shortcut) to make it leave the inbox
+
+When my inbox is empty, I start answering emails:
+
+- If I just need to answer, I do it and give it the "done" label: It'll remove the email from the tab.
+- If I need an answer from an organizers before I can act: I answer the email and give it the label "waiting for answer".
+- If I need help from the support team: I transfer the email and give it the "support team" label. The email will also appear in the "internal stuff" tab.
+- If it's a request for organizing an event: I review it, ask questions and give it the "waiting for answer" label. When it's ready, I use the "ready to deploy" label. Every Friday, I deploy all events linked to "ready to deploy" label.
