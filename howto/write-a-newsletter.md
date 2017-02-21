@@ -1,4 +1,4 @@
-# How to write fortnight Django Girls Dispatch
+# How to write Django Girls Dispatch
 
 Every month, we send Django Girls Dispatch. We hope that in time we will find a volunteer to continue the work but right now, the ambassador is doing it.
 
