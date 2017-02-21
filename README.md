@@ -46,13 +46,17 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Add a new Global Sponsor](howto/add-global-sponsor.md)
 - [How to manage GitHub sponsorship](howto/GitHub_sponsorship.md)
 - [How to manage the store](howto/store.md)
+- [Add people to Slack](howto/add_people_slack.md)
 
 #### Email templates
 
 - [First reply for new organizer request](howto/emails/organize-request-reply.md)
+- [New event email template](howto/emails/new_event_setup.md)
+- [Email for copied event](howto/emails/copy_event.md)
+- [Email for a one year old team making a new event](howto/emails/copy_year_old_event.md)
+- [Email for copied event with a complete new team](howto/emails/copy_event_new_team_setup.md)
 - [Ping for organizers that are late](howto/emails/late-ping.md)
 - [Thank you email for organizer](howto/emails/thank_you.md)
-- [Email for a one year old team making a new event](howto/emails/copy_year_old_event.md)
 - [Cancelling event & revoking rights to use the name](howto/emails/cancel-event.md)
 - [GitHub sponsorship emails](howto/emails/GitHub_sponsorship.md)
 

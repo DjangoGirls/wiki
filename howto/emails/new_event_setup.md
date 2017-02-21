@@ -1,10 +1,10 @@
-# E-mail template: Email for a one year old team making a new event
+# New event setup email
+
+(Make a canned response out of me, you'll use me a lot :D)
 
 Hi there!
 
-Congratulations on running a new Django Girls event! You rock!
-
-New features were added to the website since your last event: you can now manage applications from potential attendees on your website! To learn more about this, check our [organizer manual](https://organize.djangogirls.org/) ;)
+Congrats! I just created your Django Girls chapter website & email.
 
 1) Email
 
