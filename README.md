@@ -27,45 +27,71 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 
 #### How to...
 
-- [Deploy new city?](howto/deploy-city.md)
+##### Deploy events:
+
+- [What to do when someone apply to organize an event](howto/new-event.md)
+- [Deploy new city](howto/deploy-city.md)
 - [Deploy DjangoGirls.org website](howto/deploy-website.md)
-- [Add a second/third/nth event for existing city?](howto/copy-event.md)
-- [Add additional organizer to an existing event?](howto/add-organizer.md)
-- [Onboard new support team member?](howto/new-support-member.md)
-- [Create a new tutorial release?](howto/tutorial-release.md)
-- [Publish new tutorial translation?](http://translate.djangogirls.org/when_its_ready.html)
-- [Update tutorial source text in Crowdin?](howto/update-source-crowdin.md)
-- [Send Patreon rewards?](howto/patreon-rewards.md)
-- [Add subdomain redirect?](howto/new-subdomain-redirect.md)
-- [Write Django Girls Dispatch (newsletter)](howto/write-a-newsletter.md)
-- [Add a Twitter contributor](howto/add-to-twitter.md)
-- [Run the Django Story blog series](howto/story.md)
+- [Add a second/third/nth event for existing city](howto/copy-event.md)
+- [Add additional organizer to an existing event](howto/add-organizer.md)
+
+##### Onboard new people:
+
+- [Onboard new support team member](howto/new-support-member.md)
 - [Onboard a new Django Story interviewer](howto/story_onboard.md)
+- [Add a Twitter contributor](howto/add-to-twitter.md)
+
+##### Django Girls tutorial:
+
+- [Create a new tutorial release](howto/tutorial-release.md)
+- [Update tutorial source text in Crowdin](howto/update-source-crowdin.md)
 - [Manage translations](howto/manage_translations.md)
-- [Update Foundation's budget](howto/foundation-budget.md)
+- [Publish a new tutorial translation](https://translate.djangogirls.org/when_its_ready.html)
+
+##### Django Girls website:
+
+- [Add subdomain redirect](howto/new-subdomain-redirect.md)
 - [Add a new Global Sponsor](howto/add-global-sponsor.md)
-- [How to manage GitHub sponsorship](howto/GitHub_sponsorship.md)
-- [How to manage the store](howto/store.md)
+
+##### Django Girls community:
+
+- [Send Patreon rewards](howto/patreon-rewards.md)
+- [Run the Django Story blog series](howto/story.md)
+- [Write Django Girls Dispatch (newsletter)](howto/write-a-newsletter.md)
 - [Add people to Slack](howto/add_people_slack.md)
+- [How to make a Django Girls booth at a conference](howto/booth.md)
+
+##### Django Girls organizers:
+
+- [GitHub sponsorship](howto/GitHub_sponsorship.md)
+- [Workshop box](howto/workshop_box.md)
+
+##### Money stuff!
+
+- [Update Foundation's budget](howto/foundation-budget.md)
+- [How to manage the store](howto/store.md)
+
 
 #### Email templates
 
+##### Organizers applications review:
+
 - [First reply for new organizer request](howto/emails/organize-request-reply.md)
+- [Not enough pre-planning](howto/emails/not_enough_pre_planning.md)
+- [Acceptance email](howto/emails/application_accepted.md)
+- [Organize or attend?](howto/emails/organize_or_attend.md)
+
+##### Events management:
+
 - [New event email template](howto/emails/new_event_setup.md)
 - [Email for copied event](howto/emails/copy_event.md)
 - [Email for a one year old team making a new event](howto/emails/copy_year_old_event.md)
 - [Email for copied event with a complete new team](howto/emails/copy_event_new_team_setup.md)
 - [Ping for organizers that are late](howto/emails/late-ping.md)
-- [Thank you email for organizer](howto/emails/thank_you.md)
 - [Cancelling event & revoking rights to use the name](howto/emails/cancel-event.md)
 - [GitHub sponsorship emails](howto/emails/GitHub_sponsorship.md)
+- [Django Girls workshop box](howto/emails/free_box.md)
 
-#### Process
+#### Things that are automated
 
 - [When event is over?](howto/after_event.md)
-- [When new organizer apply to organize Django Girls event?](howto/new-event.md)
-
-#### Community
-
-- [Awesome meeting](community/awesome_meeting.md)
-- [How to make a Django Girls booth at a conference](community/booth.md)
