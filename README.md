@@ -96,3 +96,4 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Cancelling event & revoking rights to use the name](howto/emails/cancel-event.md)
 - [GitHub sponsorship emails](howto/emails/GitHub_sponsorship.md)
 - [Django Girls workshop box](howto/emails/free_box.md)
+- [Tracking product from the store](howto/emails/info_tracking_box.md)

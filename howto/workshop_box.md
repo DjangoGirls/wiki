@@ -2,7 +2,7 @@
 
 The [workshop box](https://djangogirls.org/workshop-box/) is a small parcel full of stickers, buttons, and balloons to help make Django Girls workshop more fun. Organizers can buy it on the [store](https://store.djangogirls.org/products/django-girls-workshop-box) or get one for free **only if they met certain requirements**.
 
-Email templates are [available here](../howto/emails/workshop_box.md).
+Email templates are [available here](../howto/emails/free_box.md).
 
 ## Free box requirements:
 
