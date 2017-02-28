@@ -74,7 +74,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 
 #### Things that are automated
 
-- [Handle emails script](automated/organizer_emails.md)
+- [Management commands](automated/management_commands.md)
 - [What happens when an event is over](automated/event_is_done.md)
 
 #### Email templates
