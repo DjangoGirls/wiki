@@ -12,8 +12,6 @@
 8. Mailing Lists
  - django-girls
  - django-girls-organizers
- - dg-translations-private
- - django-girls-core
 9. Website
  - http://djangogirls.org/admin/
 10. Crowdin
