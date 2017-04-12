@@ -1,6 +1,6 @@
-# Deploy a new city
+# Deploy a new city (Archival)
 
-> This is a description of a proccess to setup a new Django Girls city chapter.
+> This is a previous way of deploying the new city before we introduced automated event applications. We leave it for a reference, as it explains quite nicely what steps are needed to deploy the city.
 
 **1) Create a website:**
 
