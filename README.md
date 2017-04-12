@@ -30,7 +30,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 ##### Deploy events:
 
 - [What to do when someone apply to organize an event](howto/new-event.md)
-- [Deploy new city](howto/deploy-city.md)
+- [Deploy new city (Archival)](howto/deploy-city.md)
 - [Deploy DjangoGirls.org website](howto/deploy-website.md)
 - [Add a second/third/nth event for existing city](howto/copy-event.md)
 - [Add additional organizer to an existing event](howto/add-organizer.md)
