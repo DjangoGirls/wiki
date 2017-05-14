@@ -30,6 +30,7 @@ You can reach them by writing to hello@djangogirls.org.
 - Lacey Williams Henschel - lacey@djangogirls.org (July 2015 - April 2016) 
 - Kasia Kamińska - kasia@djangogirls.org (June 2015 - June 2016)
 - Geoff Sechter - geoffrey@djangogirls.org (June 2015 - June 2016)
+- Lucie Daeye - lucie@djangogirls.org (Septemner 2015 - March 2017)
 
 
 ## Django Girls Foundation Trustees
@@ -45,9 +46,7 @@ You can reach them by writing to foundation@djangogirls.org.
 
 ## Django Girls Awesomeness Ambassador
 
-- Lucie Daeye - lucie@djangogirls.org
-
-You can reach her at lucie@djangogirls.org or hello@djangogirls.org.
+Recruitment in process.
 
 ## Django Story
 
@@ -55,7 +54,7 @@ The Django Story series on our [blog](http://blog.djangogirls.org/) profiles one
 
 Team members: 
 
-- Adrienne Lowe (Nov. 2015 - present) 
+- Adrienne Lowe (Nov. 2015 - September 2016) 
 - Anna Ossowski (Nov. 2014 - Oct. 2015) 
 
 You can reach them by writing to story@djangogirls.org. 
