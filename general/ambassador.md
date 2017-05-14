@@ -7,9 +7,7 @@ Currently it's a part-time job, but we might scale in the future.
 
 ## Current Ambassador
 
-Since September 2015 Lucie Daeye is working as the Ambassador. More info [here](http://blog.djangogirls.org/post/127160095788/meet-our-awesomeness-ambassador-lucie). 
-
-You could contact her by writing to `lucie@djangogirls.org` or our general mailbox: `hello@djangogirls.org`.
+Recruitment in process.
 
 ## Responsibilities
 
