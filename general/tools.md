@@ -76,4 +76,4 @@ It's also handy to install Gitbook locally if you want to test some bigger PR to
  
 ## Pycharm
  
- We have a few Open Sources licenses to use [Pycharm](https://www.jetbrains.com/pycharm/) for free. If you're on the Support Team and need one to work on Django Girls related projects, contact the [Ambassador](mailto:lucie@djangogirls.org) ;)
+Since we are an open source project, we can request free [Pycharm](https://www.jetbrains.com/pycharm/) licences.
