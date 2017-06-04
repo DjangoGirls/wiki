@@ -10,16 +10,18 @@ Ola Sitarska and Ola Sendecka started Django Girls together.
 
 ## Support team
 
-Support team are people who support organizers, coaches and contributors. 
+Support team are people who support organizers, coaches and contributors.
 
 **Current team members:**
 
 | Name              | E-mail                      | Joined       | Appointment expires on | Directly responsible for                                                                                |
 |-------------------|-----------------------------|--------------|------------------------|-------------------------------------------------------------------------------------------------------|
-| Ola Sitarska      | olasitarska@djangogirls.org | July 2014    | 5th January 2017       | Long-term sustainability of Django Girls, Django Girls Store, Workshop Boxes |
-| Ola Sendecka      | olasendecka@djangogirls.org | July 2014    | 5th January 2017       | Long-term sustainability of Django Girls, Design                             |
-| Ania Warzecha     | ania@djangogirls.org        | January 2015 | 5th January 2017       | Github maintenance                                                           |
-| Baptiste Mispelon | baptiste@djangogirls.org    | January 2015 | 5th January 2017       | Website maintenance                                                                                 |
+| Ola Sitarska      | olasitarska@djangogirls.org | July 2014    | 4th December 2017       | Long-term sustainability of Django Girls, Django Girls Store, Workshop Boxes |
+| Ola Sendecka      | olasendecka@djangogirls.org | July 2014    | 4th December 2017       | Long-term sustainability of Django Girls, Design                             |
+| Ania Warzecha     | ania@djangogirls.org        | January 2015 | 4th December 2017       | Github maintenance                                                           |
+| Aisha Bello | aisha@djangogirls.org    | April 2017 | 4th December 2017 | Communication with African events |
+| Rachell Calhoun | rachell@djangogirls.org    | April 2017 | 4th December 2017 | Translations |
+| Dayoung Park | dayoung@djangogirls.org    | April 2017 | 4th December 2017 | Translations |
 
 [Learn what each area of direct responsibility means](support-team-projects.md).
 
@@ -27,15 +29,15 @@ You can reach them by writing to hello@djangogirls.org.
 
 **Former members:**
 
-- Lacey Williams Henschel - lacey@djangogirls.org (July 2015 - April 2016) 
+- Lacey Williams Henschel - lacey@djangogirls.org (July 2015 - April 2016)
 - Kasia Kamińska - kasia@djangogirls.org (June 2015 - June 2016)
 - Geoff Sechter - geoffrey@djangogirls.org (June 2015 - June 2016)
-- Lucie Daeye - lucie@djangogirls.org (Septemner 2015 - March 2017)
-
+- Lucie Daeye - lucie@djangogirls.org (September 2015 - March 2017)
+- Baptiste Mispelon - baptiste@djangogirls.org (January 2015 - March 2017)
 
 ## Django Girls Foundation Trustees
 
-Django Girls Foundation Trustees are responsible for running the legal & financial side of Django Girls organization. 
+Django Girls Foundation Trustees are responsible for running the legal & financial side of Django Girls organization.
 
 - Ola Sitarska
 - Ola Sendecka
@@ -50,27 +52,33 @@ Recruitment in process.
 
 ## Django Story
 
-The Django Story series on our [blog](http://blog.djangogirls.org/) profiles one woman Django programmer each week. 
+The Django Story series on our [blog](http://blog.djangogirls.org/) profiles one woman Django programmer each week.
 
-Team members: 
+Current members:
+-
 
-- Adrienne Lowe (Nov. 2015 - September 2016) 
-- Anna Ossowski (Nov. 2014 - Oct. 2015) 
+Former members:
 
-You can reach them by writing to story@djangogirls.org. 
+- Adrienne Lowe (Nov. 2015 - September 2016)
+- Anna Ossowski (Nov. 2014 - Oct. 2015)
+
+You can reach them by writing to story@djangogirls.org.
 
 ## Translation Managers
 
-Translation Managers are responsible for publishing and coordinating the tutorial translations. 
+Translation Managers are responsible for publishing and coordinating the tutorial translations.
 
-Team members:
+Current members:
+-
+
+Former members:
 
 - Rebecca Poulson
 - Tomáš Ehrlich
 
 You can reach them by writing to translations@djangogirls.org.
 
-## Committers 
+## Committers
 
 Committers have commit access to [our repositories](https://github.com/DjangoGirls).
 
@@ -100,7 +108,10 @@ Reviewers don't have commit access but they help us review tutorial PR, especial
 
 The social media team posts to our [Twitter](https://twitter.com/djangogirls) and [Facebook](https://www.facebook.com/djangogirls) profiles.
 
-Team members:
+Current members:
+-
+
+Former members:
 
 - Lacey Williams Henschel
-- Agata Grdal 
+- Agata Grdal
