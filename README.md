@@ -63,6 +63,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 
 - [GitHub sponsorship](howto/GitHub_sponsorship.md)
 - [Workshop box](howto/workshop_box.md)
+- [Flickr account](howto/upload_photos.md)
 
 ##### Money stuff!
 
