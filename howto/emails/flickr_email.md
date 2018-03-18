@@ -2,7 +2,7 @@
 
 ## Email to Organisers
 
-"Hi [contact name],
+"Hello,
 
 You can add them to our [Flickr](https://www.flickr.com/photos/djangogirls/) account using the info below:
 
