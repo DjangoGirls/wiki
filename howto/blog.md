@@ -2,7 +2,7 @@
 
 [Django Girls blog](http://blog.djangogirls.org/) runs on Tumblr. We can write new post or publish post [submitted](http://blog.djangogirls.org/submit) by organizers, attendees, etc.
 
-If you can't find content in the inbox, check on twitter: people may publish something on their personal blog!
+If you can't find content in the inbox, check on Twitter: people may publish something on their personal blog!
 
 You can activate Tumblr notifications to receive an email everytime someone submit a blogpost.
 
