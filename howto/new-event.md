@@ -90,3 +90,9 @@ If they seem not ready, reject them, and they will receive a nice email encourag
 - Find someone in the community to vouch for them.
 - Talk to them more via emails.
 - Recommend finding a co-organizer first.
+
+#### If the event will not deploy
+
+- Check if the application has the previous event assigned, or if there were events in this city previously - assign the last event from that city before approving the workshop
+- If this fails, go to events for this city and check their e-mail address. The most recent event should have the standard city@djangogirls.org e-mail, and the older ones should have the cityMMYYYY@djangogirls.org format. Compare that to what we have in the Google admin for users. If the last event email has already been archived and a new email created, the new email will need to be deleted before you can try to approve the workshop again.
+- If all of the above fails and you don't know what to do, in the event application change the city name slightly (to anything) keeping the slug the same then deploy the event. Once successful go back and fix the name in the event. Also check that the previous event has been re-numbered to #1 (or whichever number it should be)
