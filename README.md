@@ -69,6 +69,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 
 - [Update Foundation's budget](howto/foundation-budget.md)
 - [How to manage the store](howto/store.md)
+- [How to prepare the annual accounts](howto/accounts.md)
 
 #### Things that are automated
 
