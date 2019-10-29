@@ -6,7 +6,7 @@
 
 You can add them to our [Flickr](https://www.flickr.com/photos/djangogirls/) account using the info below:
 
-Login is djangogirls
+Login is djangogirls@yahoo.com
 Password is sgqYT3v4
 
 Let me know if you need any assistance with this :). 
