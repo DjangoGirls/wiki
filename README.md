@@ -61,7 +61,6 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 
 ##### Django Girls organizers:
 
-- [GitHub sponsorship](howto/GitHub_sponsorship.md)
 - [Workshop box](howto/workshop_box.md)
 - [Flickr account](howto/upload_photos.md)
 
@@ -85,7 +84,6 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 ##### Events management:
 
 - [Cancelling event & revoking rights to use the name](howto/emails/cancel-event.md)
-- [GitHub sponsorship emails](howto/emails/GitHub_sponsorship.md)
 - [Django Girls workshop box](howto/emails/free_box.md)
 - [Tracking product from the store](howto/emails/info_tracking_box.md)
 
