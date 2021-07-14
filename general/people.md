@@ -50,6 +50,11 @@ You can reach them by writing to foundation@djangogirls.org.
 
 Recruitment in process.
 
+## Django Girls Fundraising Coordinator
+- Anna Makarudze (Jun. 2017 - date)
+
+You can reach her by writing to fundraising@djangogirls.org. 
+
 ## Django Story
 
 The Django Story series on our [blog](http://blog.djangogirls.org/) profiles one woman Django programmer each week.
