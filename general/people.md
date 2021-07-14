@@ -37,14 +37,22 @@ You can reach them by writing to hello@djangogirls.org.
 
 ## Django Girls Foundation Trustees
 
-Django Girls Foundation Trustees are responsible for running the legal & financial side of Django Girls organization.
+Django Girls Foundation Trustees are responsible for running the legal & 
+financial side of Django Girls organization.
 
+- Aisha Bello
+- Anna Makarudze
+- Claire Wicher
+- Leona So
+- Rachell Calhoun
+
+You can reach them by writing to foundation@djangogirls.org.
+
+**Former Trustees**
 - Ola Sitarska
 - Ola Sendecka
 - Ania Warzecha
 - Bapiste Mispelon
-
-You can reach them by writing to foundation@djangogirls.org.
 
 ## Django Girls Awesomeness Ambassador
 
