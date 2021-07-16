@@ -56,7 +56,7 @@ You can reach them by writing to foundation@djangogirls.org.
 
 ## Django Girls Awesomeness Ambassador
 
-Recruitment in process.
+- Claire Wicher (Jun. 2017 - date)
 
 ## Django Story
 
