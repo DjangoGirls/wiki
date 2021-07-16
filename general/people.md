@@ -16,12 +16,17 @@ Support team are people who support organizers, coaches and contributors.
 
 | Name              | E-mail                      | Joined       | Appointment expires on | Directly responsible for                                                                                |
 |-------------------|-----------------------------|--------------|------------------------|-------------------------------------------------------------------------------------------------------|
-| Ola Sitarska      | olasitarska@djangogirls.org | July 2014    | 4th December 2017       | Long-term sustainability of Django Girls, Django Girls Store, Workshop Boxes |
-| Ola Sendecka      | olasendecka@djangogirls.org | July 2014    | 4th December 2017       | Long-term sustainability of Django Girls, Design                             |
-| Ania Warzecha     | ania@djangogirls.org        | January 2015 | 4th December 2017       | Github maintenance                                                           |
-| Aisha Bello | aisha@djangogirls.org    | April 2017 | 4th December 2017 | Communication with African events |
-| Rachell Calhoun | rachell@djangogirls.org    | April 2017 | 4th December 2017 | Translations |
-| Dayoung Park | dayoung@djangogirls.org    | April 2017 | 4th December 2017 | Translations |
+| Anna Makarudze      | anna@djangogirls.org | June 2017    |       | Fundraising and Website Maintenance |
+| Claire Wicher      | claire@djangogirls.org | June 2017    |       | Events and Financial Administration |                            |
+| Leona So     | leona@djangogirls.org        | June 2020 |        |      |                                                     |
+| Aisha Bello | aisha@djangogirls.org    | April 2017 |  | Communication with African events |
+| Rachell Calhoun | rachell@djangogirls.org    | April 2017 |  | Translations |
+| Carlton Gibson | carlton@djangogirls.org    | May 2021 |  |  |
+| Noah Alorwu |  | May 2021 |  |   |
+| Charalampia Lagou |  | May 2021 |  |  |
+| Dani Papamaximou |  | May 2021 |  |  |
+| Giselle Frederick |  | May 2021 |  |  |
+| Sandra Item |  | May 2021 |  |  |
 
 [Learn what each area of direct responsibility means](support-team-projects.md).
 
@@ -29,6 +34,10 @@ You can reach them by writing to hello@djangogirls.org.
 
 **Former members:**
 
+- Ola Sitarska - olasitarska@djangogirls.org (July 2014 - April 2019)
+- Ola Sendecka - olasendecka@djangogirls.org (July 2014 - April 2019)
+- Ania Warzecha - ania@djangogirls.org (January 2015 - December 2017)
+- Dayoung Park - dayoung@djangogirls.org (April 2017 - April 2019)
 - Lacey Williams Henschel - lacey@djangogirls.org (July 2015 - April 2016)
 - Kasia Kamińska - kasia@djangogirls.org (June 2015 - June 2016)
 - Geoff Sechter - geoffrey@djangogirls.org (June 2015 - June 2016)
@@ -62,6 +71,19 @@ You can reach them by writing to foundation@djangogirls.org.
 - Anna Makarudze (Jun. 2017 - date)
 
 You can reach her by writing to fundraising@djangogirls.org. 
+
+## Django Girls Advisory Board
+The Advisory Board advises the Trustees on various issues and helps Django Girls in 
+areas such as diversity and inclusion, tutorial adaptations, running organisations
+as well as increasing contributors to the project.
+
+**Current Members**
+- Carlton Gibson
+- Charalampia Lagou
+- Dani Papamaximou 
+- Giselle Frederick
+- Noah Alorwu
+- Sandra Item
 
 ## Django Story
 
