@@ -66,7 +66,8 @@ Modify the `deploy.sh` script to point to the new virtual environment
 by changing the value of `ENV`.
 
 * Install node by following 
-[these instructions](https://help.pythonanywhere.com/pages/Node/).
+[these instructions](https://help.pythonanywhere.com/pages/Node/) (skip if 
+image stays the same).
 
 * Open a new `Bash Console` and run 
 
