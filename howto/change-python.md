@@ -74,9 +74,12 @@ image stays the same).
 
     ```./deploy.sh``` 
 
-    to check if the deployment works fine. If not, some troubleshooting may 
+    to check if the deployment works fine. If it fails, some troubleshooting may 
     be required.
-
+    
+* If running `.deploy.sh` fails, you will need to manually reload the website
+so the changes can be effected via the `Web` tab by clicking the `Reload` 
+button.
 
 You are all set! 
 
