@@ -8,7 +8,7 @@ need to have access to our PythonAnywhere account, and follow these instructions
 
 * Check if the Python version you want to upgrade to is supported by the current
 system image used on PythonAnywhere. 
-You can do so by clicking on the pen icon on the Web Tab or by 
+You can do so by clicking on the pen icon on the Web tab or by 
 [reading this](https://help.pythonanywhere.com/pages/ChangingSystemImage#available-python-versions-for-system-images).
  If the version of Python is already supported by the current image, there is 
  no need to change the system image. 
