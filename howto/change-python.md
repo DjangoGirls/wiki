@@ -18,7 +18,9 @@ You can do so by clicking on the pen icon on the Web tab or by
 * Check which `node` version we are using opening the `Bash Console` and 
 type this command
 
-  ```which node```
+  ```bash
+  which node
+  ```
 
   Write down the version of `node` you get from this step and save it for later 
 use. You will need to reinstall it in the new image. (Skip this if image stays the same)
