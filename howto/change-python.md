@@ -42,7 +42,9 @@ the command. Replace `*` with specific version number.
 
 * Activate the virtual environment.
 
-    ```source new-venv-name/bin/activate```
+    ```bash
+    source new-venv-name/bin/activate
+    ```
 
 * Navigate to the `djangogirls.com` folder and  install requirements by 
 running these commands.
