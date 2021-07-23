@@ -44,8 +44,7 @@ the command. Replace `*` with specific version number.
 running these commands.
  
     ```
-    cd ..
-    cd djangogirls.com
+    cd ../djangogirls.com
     pip install -r requirements.txt
     ```
 
