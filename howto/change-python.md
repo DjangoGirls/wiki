@@ -58,7 +58,7 @@ paste it into a new file with the same name you create in the `bin` folder
 of the new virtual environment. 
 This file should **only be** installed in production.
 
-* Go to the `Web Tab` and change the value of Python version to the new Python
+* Go to the `Web` tab and change the value of Python version to the new Python
  version and point the virtual environment to the new virtual environment.
 
 * Navigate to `Files` tab and locate the `deploy.sh` script in the root folder
@@ -84,4 +84,3 @@ button.
 You are all set! 
 
 :tada:!
-
