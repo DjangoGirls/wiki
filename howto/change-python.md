@@ -31,7 +31,9 @@ use. You will need to reinstall it in the new image. (Skip this if image stays t
 
 * Navigate to the `.virtualenvs` folder by typing 
 
-    ```cd .virtualenvs```
+    ```bash
+    cd .virtualenvs
+    ```
     
 * Create a new virtual environment. Make sure to specify the Python version in 
 the command. Replace `*` with specific version number.
