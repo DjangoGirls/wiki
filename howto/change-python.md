@@ -3,8 +3,8 @@
 In order to bump up the Python version for the DjangoGirls.org website, you 
 need to have access to our PythonAnywhere account, and follow these instructions:
 
-[Login to PythonAnywhere](https://www.pythonanywhere.com/user/djangogirls2/consoles/). 
-* Credentials can be found in 1Password.
+* [Login to PythonAnywhere](https://www.pythonanywhere.com/user/djangogirls2/consoles/). 
+  * Credentials can be found in 1Password.
 
 * Check if the Python version you want to upgrade to is supported by the current
 system image used on PythonAnywhere. 
