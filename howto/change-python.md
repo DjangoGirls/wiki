@@ -36,7 +36,9 @@ use. You will need to reinstall it in the new image. (Skip this if image stays t
 * Create a new virtual environment. Make sure to specify the Python version in 
 the command. Replace `*` with specific version number.
 
-    ```python3.* -m venv new-venv-name```
+    ```bash
+    python3.* -m venv new-venv-name
+    ```
 
 * Activate the virtual environment.
 
