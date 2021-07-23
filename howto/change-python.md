@@ -79,7 +79,9 @@ image stays the same).
 
 * Open a new `Bash Console` and run 
 
-    ```./deploy.sh``` 
+    ```bash
+    ./deploy.sh
+    ``` 
 
     to check if the deployment works fine. If it fails, some troubleshooting may 
     be required.
