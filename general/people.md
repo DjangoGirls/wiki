@@ -118,12 +118,26 @@ You can reach them by writing to translations@djangogirls.org.
 Committers have commit access to [our repositories](https://github.com/DjangoGirls).
 
 Team members:
+- Tomasz Magulski
+- Raphael Das Gupta
+- Patryk Zawadzki
+- Ramon Saraiva
 
+##### Former members:
 - Helen Sherwood-Taylor
 - Harry Percival
 - Honza Král
 - Paul Hallett
 - Marysia Lowas
+- Baptiste Mispelon
+- Ania Warzecha
+- Ola Sitarska
+- Ola Sendecka
+- Robert Kirberich
+- Michael Strutt
+- Anna Konopka
+- Krzysztof Żuraw
+
 
 ## Tutorial PR reviewers
 
