@@ -66,7 +66,9 @@ of the new virtual environment.
 This file should **only be** installed in production.
 
 * Go to the `Web` tab and change the value of Python version to the new Python
- version and point the virtual environment to the new virtual environment.
+ version and point the virtual environment to the new virtual environment for
+ `djangogirls2.pythonanywhere.com`, `djangogirls.org` and `www.djangogirls.org`
+  web apps.
 
 * Navigate to `Files` tab and locate the `deploy.sh` script in the root folder
 `djangogirls2`. 
