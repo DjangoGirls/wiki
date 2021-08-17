@@ -96,7 +96,7 @@ Team members:
 - Patryk Zawadzki
 - Ramon Saraiva
 
-##### Former members:
+Former members:
 - Helen Sherwood-Taylor
 - Harry Percival
 - Honza Král
