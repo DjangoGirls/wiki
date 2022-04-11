@@ -1,7 +1,8 @@
 # Bump Python Version for DjangoGirls.org Website
 
-In order to bump up the Python version for the DjangoGirls.org website, you 
-need to have access to our PythonAnywhere account, and follow these instructions:
+The Django Girls website is currently running on Python 3.9 and Node 14.17.3. 
+
+Should there be need to bump up the Python version for the DjangoGirls.org website, you need to have access to our PythonAnywhere account, and follow these instructions:
 
 * [Login to PythonAnywhere](https://www.pythonanywhere.com/user/djangogirls2/consoles/). 
   * Credentials can be found in 1Password.
