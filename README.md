@@ -35,6 +35,7 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Bump Python Version for DjangoGirls.org Website](howto/change-python.md)
 - [Add additional organizer to an existing event](howto/add-organizer.md)
 - [Duplicate an event](howto/duplicate-event.md)
+- [Freeze/Unfreeze event(s)](howto/freeze-unfreeze-events.md)
 
 ##### Onboard new people:
 
