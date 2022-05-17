@@ -29,6 +29,8 @@ select sum(attendees_count) from core_event where id in (select id as thedate fr
 
 select count(distinct country) from core_event where id in (select id as thedate from core_event where TO_DATE(date, 'YYYY-MM-DD') >= TO_DATE('2017-07-01', 'YYYY-MM-DD') AND TO_DATE(date, 'YYYY-MM-DD') <= TO_DATE('2018-06-30', 'YYYY-MM-DD'));
 
-[link text](url)
+## How to obtain countries operated in when submitting accounts
 
-* Bullet point
+*Open a Postgres console as above and use this command:
+
+select distinct country from core_event where id in (select id as thedate from core_event where TO_DATE(date, 'YYYY-MM-DD') >= TO_DATE('2017-07-01', 'YYYY-MM-DD') AND TO_DATE(date, 'YYYY-MM-DD') <= TO_DATE('2018-06-30', 'YYYY-MM-DD'));
