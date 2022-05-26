@@ -79,6 +79,8 @@ Although if you're an organizer, coach or attendee and you want to know how we w
 - [Management commands](automated/management_commands.md)
 - [What happens when an event is over](automated/event_is_done.md)
 - [Python Anywhere tasks](automated/python_anywhere.md)
+- [Adding new organizers and inviting them to Slack](automated/adding_organizers_to_slack.md)
+- [Automated emails](automated/automated_emails.md)
 
 #### Email templates
 
