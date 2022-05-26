@@ -1,4 +1,4 @@
-# How new organizers are invited to Slack
+# How new organizers are added and invited to Slack
 When a new event is deployed, there are a lot of things that are done for that event automatically. These include creating an event website, creating an email address for the event, adding organizers of the event listed in the event application to the event as well as inviting these organizers, if they are new organizers, to join Django Girls Slack Channel. 
 
 Here we share how and where in the code for our website the new organizers are currently being added to Slack.
