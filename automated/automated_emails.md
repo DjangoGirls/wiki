@@ -48,7 +48,7 @@ The core app has a management command that is run as a scheduled task to send em
 Our [Organizer Manual](https://organize.djangogirls.org/) gives guidelines on sending [acceptance/rejection emails and RSVPS](https://organize.djangogirls.org/application_form/communication) to applicants and attendees. These emails are saved for each event by the [compose_email()](https://github.com/DjangoGirls/djangogirls/blob/main/applications/views.py#L211-L239) view and sent out out by the [communication()](https://github.com/DjangoGirls/djangogirls/blob/main/applications/views.py#L195-L208) view.
 
 ## What to do if automatic emails fail
-1. **Contact Form emails sent by the contact app** - these can be viewed by registering the ContactEmail model in the Django Girls admin as all emails are saved on submission.
+1. **Contact Form emails sent by the contact app** - these can be viewed in the admin by opening the ContactEmail model as all emails are saved on submission.
 2. **EventApplication emails sent by the organize app** - these are a bit difficult to resend once an event application has changed state. Organizers can be emailed manually that their event was accepted/rejected and then their event email account or Django Girls admin accounts reset.
 3. **Event emails sent out by the `handle_emails` management command** - These can be resent automatically when the emails are working as they are sent by automated tasks. It is however important to ensure that these automated tasks are always running and haven't expired.
 4. **Emails sent by the applications app to workshop applicants and attendees** - Organizers can download a CSV of their workshop applicants and attendees and send out the emails manually.
