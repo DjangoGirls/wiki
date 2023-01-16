@@ -1,6 +1,6 @@
 # Bump Python Version for DjangoGirls.org Website
 
-The Django Girls website is currently running on Python 3.9 and Node 14.17.3. 
+The Django Girls website is currently running on Python 3.10 and Node 14.17.3. 
 
 Should there be need to bump up the Python version for the DjangoGirls.org website, you need to have access to our PythonAnywhere account, and follow these instructions:
 
@@ -35,7 +35,8 @@ use. You will need to reinstall it in the new image. (Skip this if image stays t
     ```bash
     cd .virtualenvs
     ```
-    
+
+## Creating a new virtualenv manually    
 * Create a new virtual environment. Make sure to specify the Python version in 
 the command. Replace `*` with specific version number.
 
@@ -66,6 +67,16 @@ paste it into a new file with the same name you create in the `bin` folder
 of the new virtual environment. 
 This file should **only be** installed in production.
 
+* Install node by following 
+[these instructions](https://help.pythonanywhere.com/pages/Node/) (skip if 
+image stays the same).
+
+## Creating a new virtualenv using a script
+* Alternatively, all these commands are written in a script in the root folder `.upgrade_image.sh` and you can edit it with the new virtual environment name, change the path from where to copy the `postactivate` script and the destination folder to be the new virtualenv you will be creating. 
+
+You can the run `./upgrade_image.sh` in a new bash console after changing the image. The script should take a few minutes to run and after it completes and if there are no errors, it should take care of all the steps mentioned in the `Creating a new virtualenv manually`.
+
+## Update the web apps to point to new virtualenv
 * Go to the `Web` tab and change the value of Python version to the new Python
  version and point the virtual environment to the new virtual environment for
  `djangogirls2.pythonanywhere.com`, `djangogirls.org` and `www.djangogirls.org`
@@ -75,10 +86,6 @@ This file should **only be** installed in production.
 `djangogirls2`. 
 Modify the `deploy.sh` script to point to the new virtual environment
 by changing the value of `ENV`.
-
-* Install node by following 
-[these instructions](https://help.pythonanywhere.com/pages/Node/) (skip if 
-image stays the same).
 
 * Open a new `Bash Console` and run 
 
