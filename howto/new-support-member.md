@@ -1,6 +1,6 @@
 # Access for new team member
 
-> This is a checklist used when adding a new support team member, so we don't forget about all the places that he/she should have access to.
+> This is a checklist used when adding a new support team member, so we don't forget about all the places that they should have access to.
 
 1. Trello organization
 2. Create e-mail address on Google Apps
